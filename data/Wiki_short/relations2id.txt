@@ -1,0 +1,24 @@
+position held	0
+award received	1
+located in the administrative territorial entity	2
+twinned administrative body	3
+employer	4
+nominated for	5
+instance of	6
+winner	7
+educated at	8
+member of sports team	9
+country of citizenship	10
+title of chess person	11
+member of political party	12
+contains administrative territorial entity	13
+spouse	14
+country	15
+member of	16
+head of government	17
+significant event	18
+heritage designation	19
+academic degree	20
+capital of	21
+residence	22
+[MASK]	23

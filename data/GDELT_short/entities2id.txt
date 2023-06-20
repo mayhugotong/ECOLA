@@ -1,0 +1,5850 @@
+0	egypt
+1	imam
+2	president
+3	nigeria
+4	administration
+5	government
+6	minist
+7	activist
+8	detainee
+9	governor
+10	demonstrator
+11	philippine
+12	mindanao
+13	davao
+14	palestine
+15	prime minister
+16	palestinian
+17	mayor
+18	west bank
+19	ruler
+20	authorities
+21	media
+22	mexico
+23	sunni
+24	nigerian
+25	ambassador
+26	american
+27	united states
+28	denver
+29	colorado
+30	interior minist
+31	militant
+32	insurgency
+33	premier
+34	romanian
+35	cabinet
+36	romania
+37	saudi
+38	chief executive
+39	singapore
+40	intelligence
+41	syrian
+42	syria
+43	lawmaker
+44	british
+45	theresa may
+46	business
+47	diplomat
+48	africa
+49	prince
+50	australia
+51	attorney general
+52	industry
+53	companies
+54	canada
+55	united kingdom
+56	home minist
+57	china
+58	britain
+59	moscow
+60	russia
+61	los angeles
+62	hillary clinton
+63	margaret thatcher
+64	london
+65	criminal
+66	regime
+67	iran
+68	iranian
+69	mashhad
+70	israel
+71	jewish
+72	advocate
+73	house of assembly
+74	indonesian
+75	election commission
+76	congo
+77	firefighter
+78	neighborhood
+79	tourist
+80	residents
+81	community
+82	school
+83	secretariat
+84	vatican
+85	denmark
+86	the un
+87	israeli
+88	jerusalem
+89	lawyer
+90	kenya
+91	military
+92	oslo
+93	village
+94	settlement
+95	protester
+96	azerbaijani
+97	hassan
+98	tehran
+99	mullah
+100	police
+101	civilian
+102	the us
+103	jordan
+104	italian
+105	company
+106	italy
+107	rome
+108	honduras
+109	mahmoud abbas
+110	qatar
+111	rwanda
+112	settler
+113	damascus
+114	journalist
+115	guatemala
+116	hospital
+117	deputy
+118	doctor
+119	seattle
+120	the pope
+121	rights activist
+122	kananga
+123	democratic republic of the congo
+124	indonesia
+125	the european union
+126	albania
+127	jean claude juncker
+128	south african
+129	tibetan
+130	development council
+131	department of education
+132	obama
+133	brigadier general
+134	state media
+135	security official
+136	islamic
+137	united nations
+138	un general assembly
+139	dictator
+140	lebanon
+141	television
+142	azerbaijan
+143	the security council
+144	north korea
+145	world bank
+146	ecowas
+147	engineer
+148	nato
+149	washington
+150	al qaeda
+151	al qaida
+152	beirut
+153	rebel
+154	maharashtra
+155	uttarakhand
+156	worker
+157	hebei
+158	newspaper
+159	airline
+160	publication
+161	peru
+162	corporation
+163	canadian
+164	peruvian
+165	belgium
+166	mormon
+167	lutheran
+168	student
+169	kinshasa
+170	security force
+171	reuters
+172	tasmania
+173	melbourne
+174	diocese
+175	christian
+176	cologne
+177	actor
+178	brazil
+179	polish
+180	afghanistan
+181	osama bin laden
+182	japan
+183	argentine
+184	queensland
+185	male
+186	magazine
+187	spokesman
+188	warsaw
+189	senate
+190	employee
+191	farmer
+192	the white house
+193	security council
+194	pyongyang
+195	john howard
+196	new zealand
+197	baku
+198	danish
+199	asylum seeker
+200	pilgrim
+201	germany
+202	gang
+203	migrant
+204	german
+205	angela merkel
+206	refugee
+207	egyptian
+208	sinai
+209	retired
+210	thai
+211	europe
+212	france
+213	dubai
+214	sydney
+215	paris
+216	bank
+217	bertel haarder
+218	christianity
+219	islam
+220	professor
+221	florida
+222	deputies
+223	gunman
+224	police chief
+225	orlando
+226	idaho
+227	perpetrator
+228	shoplifter
+229	police officer
+230	non resident
+231	prison
+232	army
+233	australian
+234	beijing
+235	immigrant
+236	voter
+237	state leader
+238	citizen
+239	indiana
+240	new jersey
+241	mississippi
+242	costa rican
+243	costa rica
+244	local media
+245	laura chinchilla
+246	abbot
+247	thailand
+248	bangkok
+249	gunmen
+250	turkey
+251	malaysia
+252	saudi arabia
+253	amman
+254	kuala lumpur
+255	terrorist
+256	las vegas
+257	taiwan
+258	victoria
+259	paramilitary
+260	returnee
+261	hamas
+262	priest
+263	ukranian
+264	saint
+265	opposition leader
+266	vladimir
+267	health minist
+268	russian
+269	pennsylvania
+270	houston
+271	california
+272	wisconsin
+273	massachusetts
+274	minnesota
+275	new york
+276	associated press
+277	louisiana
+278	north america
+279	correspondent
+280	sioux
+281	richard nixon
+282	barack obama
+283	ukraine
+284	university
+285	oregon
+286	michigan
+287	boston
+288	king
+289	population
+290	judge
+291	alabama
+292	supreme court
+293	judiciary
+294	rhode island
+295	south korea
+296	senator
+297	congress
+298	piedmont
+299	atlanta
+300	boss
+301	website
+302	opposition party
+303	south korean
+304	customs official
+305	governance
+306	house speaker
+307	democratic party
+308	mexico city
+309	commander
+310	ibadan
+311	pakistan
+312	news organization
+313	national guard
+314	counsel
+315	chief justice
+316	federal court
+317	attorney
+318	appeals court
+319	panama
+320	manila
+321	filipino
+322	pilipinas
+323	heritage foundation
+324	milano
+325	defector
+326	catholic
+327	gaza
+328	south carolina
+329	foreign minist
+330	national security adviser
+331	lagos
+332	senate president
+333	abuja
+334	bhp billiton
+335	investor
+336	petrobras
+337	argentina
+338	hewlett packard
+339	cairo
+340	religion
+341	shia
+342	kabul
+343	google
+344	human rights watch
+345	the netherland
+346	human rights activist
+347	red crescent
+348	red cross
+349	kano
+350	auckland
+351	main opposition
+352	shiite
+353	indigenous people
+354	hindu
+355	brac
+356	bangladesh
+357	pole
+358	politician
+359	honda
+360	khaleda zia
+361	police personnel
+362	muslim
+363	niger
+364	cyprus
+365	portuguese
+366	portugal
+367	cypriot
+368	kingdom
+369	writer
+370	vladimir putin
+371	st petersburg
+372	us ambassador
+373	uprising
+374	political prisoner
+375	rebellion
+376	constitution state
+377	bishop
+378	villager
+379	blog
+380	murray
+381	prosecutor
+382	mamata banerjee
+383	blogger
+384	irish
+385	aussie
+386	international crisis group
+387	morocco
+388	news agency
+389	tony blair
+390	cleveland
+391	superior court
+392	connecticut
+393	wyoming
+394	kiribati
+395	american samoa
+396	parliament
+397	zimbabwe
+398	nama
+399	nashville
+400	tennessee
+401	niagara falls
+402	south dakota
+403	new york state
+404	new orleans
+405	burglar
+406	gazette
+407	legislature
+408	magistrate
+409	harare
+410	ministry
+411	hawaiian
+412	legislator
+413	jacob zuma
+414	puerto rico
+415	samoa
+416	taipei
+417	lawrence
+418	dallas
+419	kentucky
+420	kansas
+421	kansas city
+422	montana
+423	producer
+424	kuwait
+425	shinto
+426	operative
+427	tonga
+428	smyrna
+429	security officer
+430	edinburgh
+431	cultivator
+432	texas
+433	crook
+434	small town
+435	virginia
+436	charlotte
+437	mcgill
+438	chinese
+439	vancouver
+440	smuggler
+441	health department
+442	arkansas
+443	zambia
+444	nebraska
+445	emmerson mnangagwa
+446	ghana
+447	sabah
+448	narayanganj
+449	convicts
+450	soto
+451	bangalore
+452	illinois
+453	jamaica
+454	rio de janeiro
+455	regulator
+456	employer
+457	sylhet
+458	tribunal
+459	prisoner
+460	government official
+461	jaipur
+462	wolfgang schaeuble
+463	liverpool
+464	paedophile
+465	the associated press
+466	zimbabwean
+467	kashmiri
+468	inspector general
+469	surgeon
+470	party member
+471	coptic orthodox
+472	botswana
+473	berlin
+474	nicosia
+475	the pm
+476	conservationist
+477	bern
+478	east indian
+479	iowa
+480	san diego
+481	first lady
+482	cuba
+483	chief minister
+484	trooper
+485	director general
+486	cape york
+487	gambia
+488	cameroon
+489	delhi
+490	generals
+491	house of representatives
+492	representatives
+493	a cabinet meeting
+494	republic of korea
+495	european
+496	spain
+497	japanese
+498	air force
+499	phoenix
+500	new york city
+501	intellectual
+502	french
+503	special operations
+504	netflix
+505	netherlands
+506	tara
+507	junta
+508	political parties
+509	envoy
+510	vietnam
+511	western cape
+512	north korean
+513	pailin
+514	presbyterian
+515	greek
+516	defence minist
+517	cote d'ivoire
+518	methodist church
+519	toronto
+520	buffalo
+521	congolese
+522	dr congo
+523	jalalabad
+524	afghan
+525	taliban
+526	freemason
+527	cuban
+528	belize
+529	scientist
+530	benin
+531	lieutenant
+532	opposition parties
+533	ywca
+534	raul castro
+535	havana
+536	armenia
+537	north carolina
+538	ymca
+539	police force
+540	sikh
+541	south east asia
+542	abdullah
+543	militia
+544	turkish
+545	pakistani
+546	west virginia
+547	coca cola
+548	news station
+549	istanbul
+550	chamber
+551	radio station
+552	web site
+553	national assembly
+554	seoul
+555	arcadia
+556	navy
+557	citigroup
+558	goldman sachs
+559	macedonian
+560	thessaloniki
+561	admiral
+562	air marshal
+563	colonel
+564	isnilon
+565	bulawayo
+566	libya
+567	laos
+568	jersey
+569	district court
+570	staff member
+571	bursa
+572	political party
+573	preacher
+574	oklahoma
+575	clergymen
+576	cleric
+577	clergyman
+578	archbishop
+579	suicide bomber
+580	extremist
+581	johannesburg
+582	sanaa
+583	hanoi
+584	nasa
+585	tamil
+586	asean
+587	lisbon
+588	islamabad
+589	phnom penh
+590	cambodia
+591	the opposition
+592	malaysian
+593	party president
+594	rawalpindi
+595	garrison
+596	crown prince
+597	homs
+598	port of spain
+599	bahrain
+600	tanker
+601	chile
+602	military police
+603	reformist
+604	military judge
+605	toyota
+606	delaware
+607	worshipper
+608	coast guard
+609	mexican
+610	acapulco
+611	infantry
+612	greece
+613	amit
+614	wellington
+615	hit man
+616	yemen
+617	maine
+618	portland
+619	austin
+620	college
+621	myanmar
+622	mandalay
+623	city mayor
+624	saga
+625	sydney sekeramayi
+626	navajo
+627	scottish
+628	education secretary
+629	philadelphia
+630	valparaiso
+631	alaska
+632	terrorist organization
+633	terrorist group
+634	cargo vessel
+635	rochester
+636	chicago
+637	calif
+638	welsh
+639	runner
+640	galan
+641	cartel
+642	fire department
+643	pupil
+644	nasser
+645	spanish
+646	austria
+647	voreqe bainimarama
+648	fijian
+649	albert
+650	neighbourhood
+651	haiti
+652	landowner
+653	merchant
+654	boeing
+655	business leader
+656	belgian
+657	albanian
+658	police commissioner
+659	rustler
+660	assailant
+661	battalion
+662	xinjiang
+663	ottawa
+664	house of commons
+665	suez canal
+666	calais
+667	corsica
+668	gilad erdan
+669	rabbi
+670	minneapolis
+671	congressman
+672	speaker of the house
+673	ireland
+674	pirate
+675	bureaucracy
+676	state governor
+677	champagne
+678	the eu
+679	scotland
+680	labour minist
+681	georgetown
+682	budapest
+683	hungary
+684	hungarian
+685	believer
+686	assam
+687	namibia
+688	party leader
+689	sovereign
+690	tanzania
+691	foreign secretary
+692	army unit
+693	entrepreneur
+694	christine lagarde
+695	chancellor
+696	science congress
+697	catalonia
+698	brussels
+699	nawaz sharif
+700	economist
+701	guyana
+702	coup plotter
+703	ruling party
+704	civil servant
+705	world health organization
+706	karachi
+707	public sector
+708	haitian
+709	bahama
+710	croat
+711	uganda
+712	lahore
+713	fire marshal
+714	srinagar
+715	breton
+716	democratic republic of congo
+717	high priest
+718	palace of versailles
+719	kidnapper
+720	niamey
+721	kigali
+722	manufacturer
+723	switzerland
+724	policemen
+725	jammu and kashmir
+726	drug dealer
+727	south australia
+728	colombian
+729	brazilian
+730	colombia
+731	hunter
+732	national police
+733	vienna
+734	law enforcement agencies
+735	presidential candidate
+736	southeast asia
+737	afar
+738	ohio
+739	border security
+740	public radio
+741	alexandria
+742	international monetary fund
+743	banco santander
+744	worshiper
+745	killers
+746	appellate court
+747	port harcourt
+748	government forces
+749	publisher
+750	joint chiefs
+751	commentator
+752	manchester
+753	mugger
+754	army chief
+755	ousted prime minister
+756	opposition supporter
+757	upper house
+758	bhopal
+759	mumbai
+760	gujarat
+761	gwalior
+762	vadodara
+763	new delhi
+764	christmas island
+765	transport worker
+766	khaw boon wan
+767	electoral commission
+768	constable
+769	nevada
+770	milwaukee
+771	poland
+772	detroit
+773	catalan
+774	indigenous
+775	farm worker
+776	columbus
+777	miami
+778	education department
+779	fire fighter
+780	alexander downer
+781	kordofan
+782	qamar zaman kaira
+783	a us
+784	maryland
+785	fighter
+786	thief
+787	fire service
+788	bihar
+789	marines
+790	trader
+791	nepal
+792	tokyo
+793	brisbane
+794	perth
+795	european parliament
+796	pearl river
+797	wuhan
+798	dhaka
+799	lebanese
+800	policeman
+801	papua new guinea
+802	rajkot
+803	limerick
+804	ethiopian
+805	ethiopia
+806	glasgow
+807	athens
+808	scot
+809	david cameron
+810	hazara
+811	federal executive council
+812	telecom
+813	molotov
+814	lieutenant general
+815	carrier
+816	captain
+817	hinduism
+818	panamanian
+819	peshawar
+820	united arab emirates
+821	brookings institut
+822	unions
+823	liberia
+824	un bodies
+825	persian
+826	us official
+827	prisoner of war
+828	sacramento
+829	latinos
+830	armed group
+831	rakhine state
+832	maiduguri
+833	briton
+834	djibouti
+835	marine corp
+836	airway
+837	amritsar
+838	tycoon
+839	fighter jet
+840	hiroshima
+841	laconia
+842	taiwanese
+843	kerala
+844	cork
+845	interpol
+846	labor department
+847	national bank
+848	finance minist
+849	nuremberg
+850	lorraine
+851	world community
+852	grenoble
+853	dublin
+854	cabinet minister
+855	lawbreaker
+856	disasters emergency committee
+857	mali
+858	niger delta
+859	military officer
+860	karnataka
+861	joint chiefs of staff
+862	counselor
+863	equatorial guinea
+864	iraqi
+865	army staff
+866	tijuana
+867	shona
+868	suva
+869	utah
+870	press association
+871	milan
+872	memphis
+873	providence
+874	granite state
+875	vermont
+876	lanzhou
+877	virginia beach
+878	border patrol agent
+879	dane
+880	deutsche
+881	backpacker
+882	frankfurt
+883	brahmanbaria
+884	law minist
+885	bara
+886	monk
+887	guatemalan
+888	religious group
+889	general assembly
+890	galway
+891	uttar pradesh
+892	asean defense ministers
+893	opec
+894	oval office
+895	fiji
+896	armed forces
+897	auditor general
+898	foreign office
+899	jessore
+900	greenville
+901	gabon
+902	chad
+903	armed men
+904	zaire
+905	robber
+906	traveler
+907	czech
+908	slovak
+909	detective
+910	chamber of commerce
+911	bolivia
+912	paraguay
+913	buddhist
+914	bangladeshi
+915	methodist
+916	yoruba
+917	katsina
+918	manitoba
+919	high court
+920	manchuria
+921	episcopal
+922	aare
+923	property owner
+924	sudanese
+925	mercenary
+926	canton
+927	osce
+928	american troops
+929	repatriate
+930	uighur
+931	foreign national
+932	lithuania
+933	kazakhstan
+934	international committee of the red cross
+935	madagascar
+936	world economic forum
+937	kaduna
+938	orthodox christian
+939	tamil nadu
+940	dakota
+941	guamanian
+942	holland
+943	telugu
+944	nzema
+945	asante
+946	nelson mandela
+947	george bush
+948	district of columbia
+949	iraq
+950	state hospital
+951	kampala
+952	state attorney general
+953	chhattisgarh
+954	energy minist
+955	richmond
+956	world food program
+957	jakarta
+958	defense secretary
+959	malabo
+960	john mahama
+961	john dramani mahama
+962	ghanaian
+963	secretary of state
+964	parliamentarian
+965	news corp
+966	thomson reuters
+967	public prosecutor
+968	cartagena
+969	libyan
+970	muammar gaddafi
+971	kenyan
+972	bamako
+973	caribbean community
+974	islamic cleric
+975	khmer
+976	disney
+977	british virgin islands
+978	naval
+979	major general
+980	commandant
+981	musharraf
+982	the international community
+983	educational institution
+984	member nation
+985	ankara
+986	yemeni
+987	international atomic energy agency
+988	unhcr
+989	tuscany
+990	chea sophara
+991	lima
+992	senate delegation
+993	united states of america
+994	osaka
+995	cargo ship
+996	akita
+997	dutch
+998	nakuru
+999	ontario
+1000	san francisco
+1001	defence force
+1002	lusaka
+1003	cherokee
+1004	rana
+1005	sudan
+1006	ivory coast
+1007	al jazeera
+1008	law enforcement officer
+1009	paul kagame
+1010	rwandan
+1011	mecca
+1012	liberation army
+1013	barcelona
+1014	hartford
+1015	state minist
+1016	rhodes
+1017	hanover
+1018	cayman island
+1019	holding company
+1020	persian gulf
+1021	guangzhou
+1022	michael gove
+1023	sweden
+1024	akihito
+1025	kampong speu
+1026	hippo
+1027	outlaw
+1028	drug peddler
+1029	bermuda
+1030	christian church
+1031	lloyds banking
+1032	iceland
+1033	expatriate
+1034	aircraft carrier
+1035	turkmen
+1036	aleppo
+1037	slovak republic
+1038	oil tanker
+1039	field marshal
+1040	arizona
+1041	africans
+1042	black panthers
+1043	nokia
+1044	yoweri museveni
+1045	panama city
+1046	delegate
+1047	judicial branch
+1048	minorities
+1049	hawaii
+1050	new hampshire
+1051	nurse
+1052	african development bank
+1053	civil society
+1054	frankfort
+1055	constituent
+1056	defense department
+1057	xi jinping
+1058	unesco
+1059	turkmenistan
+1060	nepalese
+1061	qatari
+1062	singaporean
+1063	meghalaya
+1064	stephenson
+1065	hun sen
+1066	department of defense
+1067	lunda
+1068	st vincent
+1069	north dakota
+1070	lausanne
+1071	gibraltar
+1072	abductor
+1073	west bengal
+1074	private citizen
+1075	icrc
+1076	goodluck jonathan
+1077	vaclav havel
+1078	muscat
+1079	medina
+1080	kimberley
+1081	police constable
+1082	rebel group
+1083	maltese
+1084	security personnel
+1085	police post
+1086	rasht
+1087	committee to protect journalists
+1088	fresno
+1089	undercover agent
+1090	ogoni
+1091	uzbekistan
+1092	uzbek
+1093	south sudan
+1094	salva kiir
+1095	south asia
+1096	dissident
+1097	southeast asian countries
+1098	official source
+1099	chechen
+1100	culprit
+1101	asean countries
+1102	madrid
+1103	tripura
+1104	canberra
+1105	insurgent
+1106	durango
+1107	li keqiang
+1108	burundian
+1109	pierre nkurunziza
+1110	spokesmen
+1111	constitutional court
+1112	jerusalem post
+1113	autocrat
+1114	chennai
+1115	physician
+1116	environment minist
+1117	lilongwe
+1118	muslim migrant
+1119	aotearoa
+1120	ellen johnson sirleaf
+1121	assemblies
+1122	legislative body
+1123	assur
+1124	state college
+1125	george w. bush
+1126	bergen
+1127	tabloid
+1128	accra
+1129	ku klux klan
+1130	somalia
+1131	somali
+1132	salt lake city
+1133	dakar
+1134	revolt
+1135	tourism industry
+1136	brazzaville
+1137	atiku abubakar
+1138	rights group
+1139	wales
+1140	british columbia
+1141	new south wales
+1142	governor general
+1143	paramount ruler
+1144	venezuela
+1145	unicef
+1146	bali
+1147	paul keating
+1148	malawi
+1149	moroccan
+1150	sarawak
+1151	nepali
+1152	binh duong
+1153	ithaca
+1154	naha
+1155	kurd
+1156	kono
+1157	samsung
+1158	tartu
+1159	central election commission
+1160	dealer
+1161	reykjavik
+1162	shanghai
+1163	sadc
+1164	the poor
+1165	britannia
+1166	rakhine
+1167	fisher
+1168	state owned
+1169	hubei
+1170	madurai
+1171	oman
+1172	coimbatore
+1173	swaziland
+1174	okinawa
+1175	shinzo abe
+1176	gulf arab state
+1177	telecommunications minist
+1178	bashar al assad
+1179	malta
+1180	exxon
+1181	airasia
+1182	maldive
+1183	nova scotia
+1184	bimstec
+1185	caloocan
+1186	palestinian liberation organization
+1187	girija prasad koirala
+1188	separatist
+1189	judaism
+1190	jordanian
+1191	latvia
+1192	federal judiciary
+1193	hafiz saeed
+1194	city manager
+1195	assamese
+1196	international criminal court
+1197	ararat
+1198	ukrainian
+1199	neva
+1200	criminal police
+1201	native american
+1202	dominican republic
+1203	elector
+1204	central african republic
+1205	guatemala city
+1206	abu dhabi
+1207	bujumbura
+1208	belizean
+1209	dean barrow
+1210	kolkata
+1211	rajasthan
+1212	maldivian
+1213	state commission
+1214	spaniard
+1215	teimumu kepa
+1216	kaski
+1217	external affairs minist
+1218	sinai peninsula
+1219	columnist
+1220	pakistan ranger
+1221	chief of the army
+1222	tampa
+1223	wall street journal
+1224	military adviser
+1225	raymond james financial
+1226	molina healthcare
+1227	military commission
+1228	comcast
+1229	army reserve
+1230	caracas
+1231	benedict xvi
+1232	guam
+1233	pittsburgh
+1234	embassy
+1235	chaldean
+1236	regulatory body
+1237	liu yandong
+1238	missouri
+1239	state official
+1240	castile
+1241	swiss
+1242	kevin rudd
+1243	defense force
+1244	group of eight
+1245	securities and exchange commission
+1246	sena
+1247	securities exchange
+1248	empress
+1249	head of state
+1250	barbados
+1251	ayatollah khamenei
+1252	education minist
+1253	labor minist
+1254	exporter
+1255	polonnaruwa
+1256	maithripala sirisena
+1257	armed gang
+1258	hyundai
+1259	regiment
+1260	odessa
+1261	correctional institution
+1262	ground forces
+1263	servicemen
+1264	border guard
+1265	riyadh
+1266	intelligence community
+1267	mountain state
+1268	anti defamation league
+1269	st. louis
+1270	jimmy carter
+1271	durban
+1272	credit suisse
+1273	cruiser
+1274	special court
+1275	sri lanka
+1276	multan
+1277	kurdistan
+1278	department of tourism
+1279	dalit
+1280	queen elizabeth ii
+1281	argentinian
+1282	brunei
+1283	apache
+1284	belarus
+1285	local press
+1286	indianapolis
+1287	trinidad
+1288	avon products
+1289	kedah
+1290	selangor
+1291	legislative assembly
+1292	johor
+1293	military personnel
+1294	deutsche bank
+1295	lockheed martin
+1296	panasonic
+1297	wells fargo
+1298	philip morris
+1299	santiago
+1300	tunisian
+1301	tunisia
+1302	starbucks
+1303	brunei darussalam
+1304	calgary
+1305	minsk
+1306	walgreen
+1307	sir richard gozney
+1308	trinidad and tobago
+1309	undersecretary
+1310	un security council
+1311	jain
+1312	food minist
+1313	bulgarian
+1314	bulgaria
+1315	central bank
+1316	judicial system
+1317	gauteng
+1318	rotary international
+1319	zambian
+1320	yaounde
+1321	viacom
+1322	association of southeast asian nations
+1323	yoga
+1324	social worker
+1325	putrajaya
+1326	veracruz
+1327	felipe calderon
+1328	sociedad quimica y minera
+1329	whirlpool corporation
+1330	bristol myers squibb
+1331	state supreme court
+1332	royal palace
+1333	croatia
+1334	chamber of commerce and industry
+1335	st lucia
+1336	parliament house
+1337	defense attorney
+1338	siem reap
+1339	unsc
+1340	leila de lima
+1341	failed state
+1342	ethnic minority
+1343	aqaba
+1344	dissenter
+1345	illegal immigrant
+1346	madras
+1347	caregiver
+1348	european commission
+1349	drug trafficker
+1350	mafia
+1351	habiganj
+1352	leipzig
+1353	bucharest
+1354	czech republic
+1355	rosario
+1356	cape town
+1357	north west
+1358	bolivian
+1359	davos
+1360	felon
+1361	stockholm
+1362	jinja
+1363	medical association
+1364	rebel leader
+1365	secretary of defense
+1366	tourism minist
+1367	murkowski
+1368	legislative council
+1369	bureaucrat
+1370	liberian
+1371	busan
+1372	kurunegala
+1373	cabinet of ministers
+1374	civil service
+1375	morgan stanley
+1376	jaffna
+1377	champika ranawaka
+1378	non governmental organisation
+1379	greensboro
+1380	malays
+1381	baloch
+1382	ho chi minh city
+1383	marseille
+1384	kingston
+1385	colonist
+1386	manipur
+1387	colombo
+1388	agriculture minist
+1389	raytheon
+1390	mosul
+1391	eli lilly
+1392	northrop grumman
+1393	fyrom
+1394	voice of america
+1395	tamale
+1396	recep tayyip erdogan
+1397	komi
+1398	benin city
+1399	human rights commission
+1400	peter costello
+1401	baghdad
+1402	piper jaffray
+1403	mauritania
+1404	burkina faso
+1405	kagoshima
+1406	firebug
+1407	estonia
+1408	cambodian
+1409	uhuru kenyatta
+1410	quezon
+1411	landlord
+1412	united church of christ
+1413	intelligence service
+1414	saint lucia
+1415	nitish kumar
+1416	pune
+1417	lucknow
+1418	patna
+1419	mayan
+1420	honduran
+1421	ceos
+1422	finland
+1423	toledo
+1424	west germany
+1425	academics
+1426	political wing
+1427	islamic world
+1428	daniel ortega
+1429	greenpeace
+1430	mitsubishi
+1431	kriti
+1432	wildlife trust
+1433	trade minist
+1434	world wildlife fund
+1435	sony
+1436	police officials
+1437	haryana
+1438	paul martin
+1439	high commission
+1440	vientiane
+1441	burundi
+1442	defence secretary
+1443	principe
+1444	bharat
+1445	justice minister
+1446	siberia
+1447	caritas
+1448	tajikistan
+1449	kikuyu
+1450	mauritius
+1451	mozambique
+1452	bank of america
+1453	burma
+1454	serbia
+1455	museveni
+1456	gulu
+1457	ugandan
+1458	sheffield
+1459	sikkim
+1460	greenland
+1461	calcutta
+1462	development agenc
+1463	interior secretary
+1464	himachal pradesh
+1465	croatian
+1466	kayah state
+1467	riot police
+1468	clergy
+1469	new mexico
+1470	san antonio
+1471	public television
+1472	unitarian
+1473	infirmary
+1474	rancher
+1475	lee hsien loong
+1476	cincinnati
+1477	guan
+1478	piyasena gamage
+1479	great britain
+1480	kelantan
+1481	al mezan
+1482	ashraf ghani
+1483	eritrean
+1484	ebro
+1485	traveller
+1486	collegian
+1487	andhra pradesh
+1488	caesarea
+1489	urdu
+1490	xuzhou
+1491	drug enforcement
+1492	s. korea
+1493	editor in chief
+1494	reinsurance group of america
+1495	ishares
+1496	royal dutch shell
+1497	keycorp
+1498	nuveen
+1499	infosys
+1500	kuwaiti
+1501	military rule
+1502	constantine
+1503	fulani
+1504	vietnamese
+1505	solomon island
+1506	bandit
+1507	patrick chinamasa
+1508	birmingham
+1509	paul biyoghe mba
+1510	planning commission
+1511	morang
+1512	bob hawke
+1513	national electoral commission
+1514	sihanoukville
+1515	ariel sharon
+1516	haredi
+1517	municipal court
+1518	louisville
+1519	state secretary
+1520	charles murray
+1521	maryknoll
+1522	gulf cooperation council
+1523	antonio guterres
+1524	hamid karzai
+1525	manama
+1526	deputy prime minister
+1527	health personnel
+1528	bengali
+1529	presidential aide
+1530	delphi
+1531	rio tinto
+1532	microsoft
+1533	conocophillips
+1534	seville
+1535	bombay
+1536	freedom house
+1537	new caledonian
+1538	military force
+1539	president of the senate
+1540	raleigh
+1541	liepaja
+1542	ground troop
+1543	edison international
+1544	sergey kislyak
+1545	western australia
+1546	frederick chiluba
+1547	igbo
+1548	saudi arabian
+1549	border patrol
+1550	zhejiang
+1551	fang
+1552	thiruvananthapuram
+1553	taranaki
+1554	west indies
+1555	kanpur
+1556	monger
+1557	honiara
+1558	tibetan buddhism
+1559	hamzah
+1560	fars news
+1561	virbhadra singh
+1562	new caledonia
+1563	french polynesia
+1564	environmentalist
+1565	opposition forces
+1566	almaty
+1567	chabad
+1568	yuli edelstein
+1569	archer daniels midland
+1570	corvette
+1571	algerian
+1572	algeria
+1573	bill clinton
+1574	binali yildirim
+1575	tibet
+1576	ottawa river
+1577	naga
+1578	ethnic group
+1579	general electric
+1580	head of government
+1581	shipping minist
+1582	madhya pradesh
+1583	tenants
+1584	qualcomm
+1585	mafioso
+1586	mahmoud ahmadinejad
+1587	great barrier reef
+1588	n. korea
+1589	santo domingo
+1590	arabian sea
+1591	jamaican
+1592	hawaiian airlines
+1593	south sudanese
+1594	reformer
+1595	waitress
+1596	vijayawada
+1597	paul biya
+1598	jerez
+1599	antigua and barbuda
+1600	energy secretary
+1601	norway
+1602	sardis
+1603	marauder
+1604	papua new guinean
+1605	cebu
+1606	liberation movement
+1607	natal
+1608	dong
+1609	newspaper editor
+1610	american civil liberties union
+1611	cordillera
+1612	norodom sihanouk
+1613	basel
+1614	yisrael katz
+1615	arunachal pradesh
+1616	free state
+1617	world council of churches
+1618	quaker
+1619	moron
+1620	nanjing
+1621	chief of staff
+1622	northern territory
+1623	scholar
+1624	mongolia
+1625	tigre
+1626	leeds
+1627	treasury secretary
+1628	health official
+1629	abidjan
+1630	the drc
+1631	european union
+1632	aerospace
+1633	blackrock
+1634	human rights group
+1635	reserve bank
+1636	nairobi
+1637	s korea
+1638	nagpur
+1639	milf
+1640	tel aviv
+1641	surabaya
+1642	royal bank of canada
+1643	exxon mobil
+1644	assemblage
+1645	member of parliament
+1646	lower house of parliament
+1647	republic of georgia
+1648	national security advisor
+1649	buddhist monk
+1650	creativity
+1651	mujahideen
+1652	kiev
+1653	shenyang
+1654	barbadian
+1655	nassau
+1656	thieves
+1657	john major
+1658	downing street
+1659	nile
+1660	san sebastian
+1661	ecuador
+1662	catholic bishop
+1663	resistance group
+1664	doha
+1665	darfur
+1666	charles schwab
+1667	monarch
+1668	pervez musharraf
+1669	gyeongsang
+1670	beja
+1671	washoe
+1672	yamaguchi
+1673	zurich
+1674	aden
+1675	prostitute
+1676	ilham aliyev
+1677	montreal
+1678	stephen harper
+1679	congresswoman
+1680	honorary consul
+1681	nationals
+1682	angolan
+1683	jinan
+1684	branch davidians
+1685	petrochina
+1686	nagaland
+1687	sumatra
+1688	non government organization
+1689	dubrovnik
+1690	dresden
+1691	norwegian
+1692	waterloo
+1693	emperor
+1694	gwangju
+1695	jeolla
+1696	puebla
+1697	azores
+1698	n korea
+1699	national security council
+1700	reporters without borders
+1701	nustar energy
+1702	santa cruz
+1703	juba
+1704	khartoum
+1705	arsonist
+1706	army officer
+1707	volta
+1708	hindustan
+1709	eritrea
+1710	anglican
+1711	myanmarese
+1712	bale
+1713	luxembourg
+1714	chengdu
+1715	equality now
+1716	labor union
+1717	anadarko petroleum
+1718	pedophile
+1719	arab league
+1720	state news agency
+1721	government spokesman
+1722	turin
+1723	southern african development community
+1724	lesotho
+1725	hani
+1726	tyler technologies
+1727	ruling parties
+1728	togo
+1729	military tribunal
+1730	dayak
+1731	health care provider
+1732	benghazi
+1733	international court of justice
+1734	tesco
+1735	rolls royce
+1736	protest leader
+1737	church of christ
+1738	displaced residents
+1739	rabat
+1740	fortis
+1741	special forces
+1742	geneva
+1743	circuit court of appeals
+1744	amhara
+1745	limpopo
+1746	ghent
+1747	protestant
+1748	sex worker
+1749	serial killer
+1750	cannes
+1751	nurul islam nahid
+1752	sofia
+1753	chandigarh
+1754	shop owner
+1755	asian development bank
+1756	public relations officer
+1757	nicolas sarkozy
+1758	state owned television
+1759	waterford
+1760	guangdong
+1761	anjou
+1762	angola
+1763	john anderson
+1764	ali abdullah saleh
+1765	opposition activist
+1766	hitman
+1767	al hudaydah
+1768	fire brigade
+1769	barrister
+1770	zagreb
+1771	yisrael
+1772	court judge
+1773	amgen inc
+1774	carnival corporation
+1775	kashmir liberation front
+1776	jammu kashmir liberation front
+1777	the carter center
+1778	naples
+1779	igad
+1780	sergey shoygu
+1781	presidential palace
+1782	tanzanian
+1783	faroe islands
+1784	bhutanese
+1785	national council
+1786	bhutan
+1787	serbs
+1788	estonian
+1789	chilean
+1790	chukha
+1791	charles taylor
+1792	home affairs minist
+1793	solicitor general
+1794	ford foundation
+1795	andreas van agt
+1796	lincoln national corp
+1797	prosecuting attorney
+1798	oromo
+1799	mari
+1800	el salvador
+1801	guerrilla
+1802	sierra leone
+1803	donbas
+1804	danube river
+1805	innsbruck
+1806	venezuelan
+1807	guinea
+1808	finnish
+1809	consul general
+1810	crimea
+1811	law enforcement authorities
+1812	michel aoun
+1813	nanny
+1814	omar al bashir
+1815	kailali
+1816	petronas
+1817	islamic front
+1818	lula da silva
+1819	reuven rivlin
+1820	tampere
+1821	jklf
+1822	armenian
+1823	wayne swan
+1824	steelmaker
+1825	cree
+1826	lee myung bak
+1827	maasai
+1828	automaker
+1829	zulu
+1830	doctoral student
+1831	gambian
+1832	lecturer
+1833	dacoit
+1834	african union
+1835	military base
+1836	nakhon ratchasima
+1837	hollander
+1838	abdul qadir
+1839	entebbe
+1840	nara
+1841	credit union
+1842	zanzibar
+1843	gdansk
+1844	riga
+1845	senegal
+1846	senegalese
+1847	kwazulu natal
+1848	monaco
+1849	nagano
+1850	international organization for migration
+1851	sufi
+1852	passenger jet
+1853	intelligence chief
+1854	mogadishu
+1855	displaced person
+1856	cheyenne
+1857	dprk
+1858	addis ababa
+1859	ariana
+1860	arms dealer
+1861	organized crime
+1862	glaxosmithkline
+1863	nuclear suppliers group
+1864	farc
+1865	tripoli
+1866	siachen glacier
+1867	sicilian
+1868	regional governor
+1869	information office
+1870	jeremy hunt
+1871	manmohan singh
+1872	copenhagen
+1873	yukon
+1874	verizon
+1875	military official
+1876	abdallah ii
+1877	raider
+1878	marie stopes
+1879	khulna
+1880	bougainville
+1881	district commissioner
+1882	finn
+1883	micronesia
+1884	ryanair
+1885	incheon
+1886	agence france press
+1887	prudential financial
+1888	humana inc
+1889	phuket
+1890	port moresby
+1891	michael somare
+1892	giza
+1893	police captain
+1894	freedom fighter
+1895	consulate
+1896	eaton vance
+1897	abu sayyaf
+1898	human rights organization
+1899	new brunswick
+1900	zsolt semjen
+1901	herero
+1902	sami
+1903	rajasthani
+1904	savannakhet
+1905	namibian
+1906	kachin
+1907	american geophysical union
+1908	cefic
+1909	kochi
+1910	malayalam
+1911	bhubaneswar
+1912	rioter
+1913	shan state
+1914	gendarmerie
+1915	brunswick
+1916	mombasa
+1917	eastern cape
+1918	abdullah ii
+1919	health professional
+1920	embraer
+1921	rasuwa
+1922	sindhi
+1923	vmware
+1924	abc radio
+1925	catholic priest
+1926	eshaq jahangiri
+1927	constantinople
+1928	crete
+1929	department of agriculture
+1930	roman catholic
+1931	brookfield asset management
+1932	zeti akhtar aziz
+1933	malaga
+1934	tyrant
+1935	kamla persad bissessar
+1936	tobago
+1937	tim gopeesingh
+1938	news outlet
+1939	amsterdam
+1940	special olympics
+1941	leiden
+1942	astana
+1943	alberto fujimori
+1944	seamen
+1945	military group
+1946	armed force
+1947	tirana
+1948	state prison
+1949	munich
+1950	buganda
+1951	commando
+1952	antwerp
+1953	cape horn
+1954	falkland islands
+1955	daewoo
+1956	bari
+1957	us government
+1958	dutchman
+1959	volgograd
+1960	opposition mp
+1961	simon wiesenthal center
+1962	oviedo
+1963	osage
+1964	ashanti
+1965	waiter
+1966	valencia
+1967	sierra nevada
+1968	adelaide
+1969	teekay lng
+1970	ludhiana
+1971	dravidian
+1972	shiraz
+1973	mohawk
+1974	basque
+1975	luanda
+1976	bonn
+1977	brest
+1978	container ship
+1979	bogra
+1980	lampang
+1981	okinawan
+1982	sierra club
+1983	justice system
+1984	democracy activist
+1985	mende
+1986	republic of south africa
+1987	sana
+1988	coast guard patrols
+1989	frigate
+1990	philip hammond
+1991	inner mongolia
+1992	police district
+1993	business executive
+1994	chevron
+1995	lome
+1996	u. s.
+1997	trade union
+1998	munda
+1999	constituent assembly
+2000	fighter plane
+2001	sangay
+2002	surat
+2003	sirajganj
+2004	alaska air group
+2005	rajshahi
+2006	singtel
+2007	rangpur
+2008	lone star state
+2009	naqshbandi
+2010	kayin
+2011	marche
+2012	rostov
+2013	army chief of staff
+2014	rayong
+2015	echelon
+2016	skopje
+2017	macedonia
+2018	mount ararat
+2019	separatist rebel
+2020	nagasaki
+2021	catholic saint
+2022	jerry john rawlings
+2023	asmara
+2024	atheist
+2025	reliance industries
+2026	jharkhand
+2027	commerce minist
+2028	hatha yoga
+2029	kabyle
+2030	education official
+2031	advocate general
+2032	hannover
+2033	abdelaziz bouteflika
+2034	spiritualism
+2035	puerto rican
+2036	mutineer
+2037	filipina
+2038	gorkha
+2039	communist rebel
+2040	fanatic
+2041	brindisi
+2042	commanding general
+2043	house of representative
+2044	tendai
+2045	paramilitary force
+2046	consul
+2047	brothel
+2048	kharkiv
+2049	migrant worker
+2050	halle
+2051	transport minist
+2052	susa
+2053	hodeida
+2054	league of women voters
+2055	peter mutharika
+2056	barclays plc
+2057	jet fighter
+2058	federal judge
+2059	juarez
+2060	fire company
+2061	moldova
+2062	religious organization
+2063	defense minist
+2064	group of seven
+2065	world vision
+2066	organization for security and cooperation in europe
+2067	actium
+2068	wilfred elrington
+2069	world trade organisation
+2070	displaced people
+2071	ecuadorian
+2072	human trafficker
+2073	hambantota
+2074	organization of american states
+2075	server
+2076	liam fox
+2077	combatant
+2078	cato institute
+2079	molson coors
+2080	southwest airlines
+2081	bank of montreal
+2082	ali abdullah
+2083	european bank for reconstruction and development
+2084	doris
+2085	army patrol
+2086	alberta
+2087	state assembly
+2088	second lieutenant
+2089	quintana roo
+2090	naval ship
+2091	seventh day adventist church
+2092	police deputy commissioner
+2093	john pombe magufuli
+2094	law enforcement agency
+2095	ahmed abdullah
+2096	mongolian
+2097	lenovo
+2098	government organization
+2099	internal revenue service
+2100	harry reid
+2101	gobi
+2102	cardiff
+2103	cadiz
+2104	prague
+2105	port louis
+2106	oran
+2107	kasai
+2108	mennonite central committee
+2109	lyon
+2110	thimphu
+2111	military regime
+2112	conservation international
+2113	amnesty international
+2114	san salvador
+2115	us leader
+2116	jesuits
+2117	uruguayan
+2118	uruguay
+2119	center for human rights
+2120	drug gang
+2121	v. sreenivasa prasad
+2122	fire chief
+2123	kim jong il
+2124	maputo
+2125	playboy enterprises
+2126	choctaw
+2127	mano
+2128	shiga
+2129	joe biden
+2130	the west african country
+2131	trial lawyer
+2132	black african
+2133	the au
+2134	shanxi
+2135	edmonton
+2136	government troops
+2137	sofa landver
+2138	george soros
+2139	russian federation
+2140	seychelles
+2141	amish
+2142	government delegation
+2143	fundamentalist muslim
+2144	national press
+2145	terrorist leader
+2146	secret police
+2147	mae hong son
+2148	valletta
+2149	caretaker government
+2150	reconstructionist judaism
+2151	charedi
+2152	teheran
+2153	ijaw
+2154	bahraini
+2155	ivorian
+2156	public works minist
+2157	the hague
+2158	observers in
+2159	shriners
+2160	mennonite
+2161	sevilla
+2162	dagestan
+2163	plunderer
+2164	druze
+2165	associate justice
+2166	tainan
+2167	weight watchers international
+2168	anglican communion
+2169	grenada
+2170	first state
+2171	water resources minist
+2172	ahmedabad
+2173	allahabad
+2174	bhojpuri
+2175	jamshedpur
+2176	tata steel
+2177	zikri
+2178	cochin
+2179	binyamin netanyahu
+2180	binh dinh
+2181	kiwi
+2182	mattel
+2183	chandpur
+2184	xiamen
+2185	zhongshan
+2186	business tycoon
+2187	orissa
+2188	dominican
+2189	david anderson
+2190	court of appeals
+2191	brian mulroney
+2192	makkah
+2193	kathmandu
+2194	kyiv
+2195	blackmailer
+2196	bratislava
+2197	samara
+2198	romina
+2199	robert fico
+2200	nguyen thi kim ngan
+2201	royal caribbean
+2202	khmer rouge
+2203	gjorge ivanov
+2204	stuttgart
+2205	saint petersburg
+2206	kirkuk
+2207	maori
+2208	insurgent group
+2209	syro malabar church
+2210	midwife
+2211	trafficker
+2212	erivan
+2213	kumasi
+2214	bruno le maire
+2215	advisory board
+2216	moro
+2217	indea
+2218	emirati
+2219	international union of architects
+2220	guy verhofstadt
+2221	lund
+2222	mercenaries
+2223	ehud barak
+2224	special envoy
+2225	marathi
+2226	industry minist
+2227	bhola
+2228	mark carney
+2229	jp morgan chase
+2230	harbin
+2231	shirin ebadi
+2232	conservative judaism
+2233	first lieutenant
+2234	arrow electronics
+2235	jeddah
+2236	resistance movement
+2237	michael oren
+2238	peasant
+2239	buccaneer
+2240	tegucigalpa
+2241	fidel castro
+2242	cornish
+2243	sao paulo
+2244	rebel army
+2245	pranab mukherjee
+2246	council of europe
+2247	raila odinga
+2248	venkaiah naidu
+2249	strathclyde
+2250	private bank
+2251	soledad
+2252	empire state
+2253	belarusian
+2254	terengganu
+2255	chancery
+2256	kunming
+2257	xaverian brothers
+2258	cotonou
+2259	nicaraguan
+2260	jacksonville
+2261	juan manuel santos
+2262	varna
+2263	china mobile
+2264	leningrad
+2265	moussa faki mahamat
+2266	machu picchu
+2267	international community
+2268	dortmund
+2269	gangster
+2270	nijmegen
+2271	hausa
+2272	burgundy
+2273	kolhapur
+2274	miscreant
+2275	turk
+2276	hamburg
+2277	terepai maoate
+2278	chadian
+2279	military government
+2280	chittagong
+2281	cook islands
+2282	kyrgyzstan
+2283	las vegas sands
+2284	nauru
+2285	helen clark
+2286	warship
+2287	finance official
+2288	ranchi
+2289	essen
+2290	conglomerate
+2291	austrian
+2292	brasil
+2293	john turner
+2294	hitachi
+2295	xerox
+2296	karbala
+2297	armed bandit
+2298	vilnius
+2299	central java
+2300	sicily
+2301	basra
+2302	punjabi
+2303	merchant vessel
+2304	dow chemical company
+2305	banjul
+2306	freetown
+2307	galilee
+2308	ghulam nabi azad
+2309	saskatchewan
+2310	palestine liberation organization
+2311	madhesi
+2312	gandaki
+2313	esfahan
+2314	directv
+2315	military authorities
+2316	torino
+2317	tivoli
+2318	margrethe ii
+2319	pope benedict
+2320	department of foreign affairs
+2321	surat thani
+2322	don pramudwinai
+2323	privy council
+2324	agriculture secretary
+2325	unidentified gunmen
+2326	china telecom
+2327	calabarzon
+2328	k. shanmugam
+2329	perak
+2330	vanuatu
+2331	avalonbay communities
+2332	armed troops
+2333	prince norodom ranariddh
+2334	haifa
+2335	jewish national fund
+2336	kaohsiung
+2337	helsinki
+2338	news editor
+2339	islamist cleric
+2340	looter
+2341	lulzim basha
+2342	bundestag
+2343	pabna
+2344	elvin nimrod
+2345	perry christie
+2346	hubert minnis
+2347	barbuda
+2348	dominica
+2349	armed police
+2350	kyoto
+2351	kingstown
+2352	grenadines
+2353	france telecom
+2354	der spiegel
+2355	international physicians for the prevention of nuclear war
+2356	napoli
+2357	george town
+2358	john hancock
+2359	uniting church in australia
+2360	vodafone
+2361	gent
+2362	jiangxi
+2363	rotary club
+2364	franciscans
+2365	east germany
+2366	algiers
+2367	archdiocese
+2368	calabria
+2369	tabasco
+2370	mount carmel
+2371	islamic development bank
+2372	students and teacher
+2373	meredith corporation
+2374	aurangabad
+2375	mallikarjun kharge
+2376	interim president
+2377	brasilia
+2378	brian mc
+2379	yosemite
+2380	sri lankan
+2381	st. petersburg
+2382	goiania
+2383	trincomalee
+2384	new zealander
+2385	isfahan
+2386	douala
+2387	sao tome and principe
+2388	andrew holness
+2389	chiba
+2390	inuit
+2391	richard perle
+2392	dilma rousseff
+2393	antigua
+2394	paula bennett
+2395	law enforcing agencies
+2396	shaanxi
+2397	energy corp
+2398	tomsk
+2399	bloemfontein
+2400	susan rice
+2401	chisinau
+2402	moldovan
+2403	nunavut
+2404	yukon territory
+2405	trades union
+2406	tunis
+2407	rebel force
+2408	td ameritrade
+2409	avigdor lieberman
+2410	motorola
+2411	extortionist
+2412	council of ministers
+2413	social welfare minist
+2414	bibi netanyahu
+2415	shan
+2416	santa ana
+2417	rand corporation
+2418	austrailia
+2419	kingdom of cambodia
+2420	st kitts and nevis
+2421	jetblue
+2422	reserve officer
+2423	chinook
+2424	usaid
+2425	anguilla
+2426	royal bank of scotland
+2427	sar kheng
+2428	french polynesian
+2429	provincial officials
+2430	sharad pawar
+2431	department of commerce
+2432	tyre
+2433	niigata
+2434	corelogic
+2435	protesting student
+2436	granger
+2437	international union for conservation of nature
+2438	greenhill
+2439	hailemariam desalegn
+2440	liberation front
+2441	gangwon
+2442	chernobyl
+2443	novartis
+2444	parbat
+2445	arun shourie
+2446	medico
+2447	mauritian
+2448	counsellor
+2449	sempra energy
+2450	miao
+2451	catholicism
+2452	viktor orban
+2453	christian science
+2454	u.s.
+2455	alliance data systems
+2456	commercial bank
+2457	yangon
+2458	vladivostok
+2459	narcotics anonymous
+2460	caddo
+2461	magazine editor
+2462	bruno rodriguez parrilla
+2463	yogyakarta
+2464	nigerien
+2465	wrongdoer
+2466	electoral alliance
+2467	world trade organization
+2468	undp
+2469	riviera
+2470	pondicherry
+2471	nicaragua
+2472	broadcasting corp
+2473	andaman and nicobar islands
+2474	waikato
+2475	st helena
+2476	gujarati
+2477	nung
+2478	pawan kumar bansal
+2479	hiker
+2480	kalimantan
+2481	si sa ket
+2482	law officer
+2483	ouagadougou
+2484	alcoholics anonymous
+2485	zhuhai
+2486	dar es salaam
+2487	mines minist
+2488	yerevan
+2489	monastery
+2490	farm labourer
+2491	prosecuting officer
+2492	henan
+2493	luoyang
+2494	katowice
+2495	tourism department
+2496	omar abdullah
+2497	unification minist
+2498	anti terrorism court
+2499	luzon
+2500	sango
+2501	uyghur
+2502	state owned enterprise
+2503	transportation minist
+2504	whorehouse
+2505	southafrica
+2506	neapolitan
+2507	lesvos
+2508	shimon peres
+2509	world jewish congress
+2510	zamboanga
+2511	cameroonian
+2512	ismail khan
+2513	military advisor
+2514	joseph boakai
+2515	kilifi
+2516	policewoman
+2517	covenant house
+2518	rautahat
+2519	president nixon
+2520	aichi
+2521	madi
+2522	kisii
+2523	rhone
+2524	guinean
+2525	conakry
+2526	mohamed ali mohamed
+2527	zhang dejiang
+2528	pepsico
+2529	senior intelligence officer
+2530	executive department
+2531	manus
+2532	infospace inc
+2533	nkorea
+2534	standing army
+2535	saint vincent
+2536	saint vincent and the grenadines
+2537	bogota
+2538	antioch
+2539	whore
+2540	khieu kanharith
+2541	prosecutor general
+2542	workers organization
+2543	official news agency
+2544	guyanese
+2545	shenzhen
+2546	nakhon si thammarat
+2547	cibc
+2548	majuro
+2549	otago
+2550	chamorro
+2551	windhoek
+2552	robert mugabe
+2553	palau
+2554	ceylon
+2555	golden state
+2556	marshall islands
+2557	hamelin
+2558	south and north korea
+2559	san pedro sula
+2560	aceh
+2561	kumari selja
+2562	broadcasting company
+2563	dz bank
+2564	khalsa
+2565	tanganyika
+2566	tama
+2567	iroquois
+2568	phu yen
+2569	icai
+2570	pervert
+2571	occupied territories
+2572	tata motors
+2573	natives
+2574	jabalpur
+2575	quang binh
+2576	hoa binh
+2577	pangasinan
+2578	welshman ncube
+2579	top executive
+2580	opposition faction
+2581	milos zeman
+2582	car maker
+2583	naija
+2584	yahya jammeh
+2585	drug syndicate
+2586	savoy
+2587	bhaktapur
+2588	moravia
+2589	tianjin
+2590	nyala
+2591	central africa republic
+2592	army national guard
+2593	frelimo
+2594	intelligence officer
+2595	liaoning
+2596	gauhati
+2597	sadhu
+2598	information committee
+2599	pretoria
+2600	chechnya
+2601	tashkent
+2602	abu bakar
+2603	tierra del fuego
+2604	urumqi
+2605	transport authority
+2606	herat
+2607	bathabile dlamini
+2608	iraqi kurdistan
+2609	mahinda rajapakse
+2610	court official
+2611	luhya
+2612	brahmin
+2613	maneka gandhi
+2614	utrecht
+2615	islamic militant
+2616	jigme khesar namgyel wangchuck
+2617	paris club
+2618	shavkat mirziyayev
+2619	harold lovell
+2620	kandahar
+2621	air unit
+2622	kachin state
+2623	salisbury
+2624	soweto
+2625	david frum
+2626	reservist
+2627	malawian
+2628	spy plane
+2629	lam dong
+2630	higher education minist
+2631	national airline
+2632	macquarie infrastructure
+2633	comilla
+2634	sunamganj
+2635	doris leuthard
+2636	habitat for humanity
+2637	xian
+2638	tallinn
+2639	technology minist
+2640	ritchie bros
+2641	opposition coalition
+2642	krasnodar
+2643	mohamed nasheed
+2644	despot
+2645	legislative chamber
+2646	court of chancery
+2647	shizuoka
+2648	mzansi
+2649	thermo fisher
+2650	sharecropper
+2651	roma
+2652	pahang
+2653	carmaker
+2654	polity
+2655	mbabane
+2656	intelligence apparatus
+2657	lithuanian
+2658	carnegie endowment for international peace
+2659	pusan
+2660	lille
+2661	pimco
+2662	slovakia
+2663	phitsanulok
+2664	texaco
+2665	tennessee valley authority
+2666	cemex
+2667	channel island
+2668	isle of man
+2669	franklin covey
+2670	baroda
+2671	bank of nova scotia
+2672	mosaic company
+2673	iaea
+2674	creole
+2675	mizoram
+2676	papal states
+2677	objector
+2678	sagarmatha
+2679	ahmadiyya
+2680	commanding officer
+2681	company owner
+2682	satmar
+2683	sidon
+2684	us state department
+2685	rafael correa
+2686	ashgabat
+2687	justice of the peace
+2688	mauritanian
+2689	military spokesman
+2690	mark rutte
+2691	nogales
+2692	andres manuel lopez obrador
+2693	nabil shaath
+2694	visayas
+2695	morobe
+2696	central bank governor
+2697	scott gottlieb
+2698	ahmad zahid hamidi
+2699	qingdao
+2700	nineveh
+2701	kevin hassett
+2702	lake geneva
+2703	michel temer
+2704	bank of china
+2705	prairie state
+2706	twin falls
+2707	order of malta
+2708	luxemburg
+2709	kannada
+2710	aarhus
+2711	northern irish
+2712	chamber of deputies
+2713	buenos aires
+2714	national organization for women
+2715	friends of the earth
+2716	illegal migrant
+2717	kaliningrad
+2718	forum for the future
+2719	reactionaries
+2720	earthjustice
+2721	atal bihari vajpayee
+2722	omani
+2723	lumad
+2724	jing
+2725	casablanca
+2726	elbit systems
+2727	general contractor
+2728	suncor energy
+2729	gothenburg
+2730	federal police
+2731	national news agency
+2732	constab
+2733	burmese
+2734	kofi annan
+2735	vedanta
+2736	galician
+2737	french development agency
+2738	michaelle jean
+2739	la francophonie
+2740	aruba
+2741	christchurch
+2742	bay of plenty
+2743	tottori
+2744	sisters of charity
+2745	lubumbashi
+2746	syriac orthodox
+2747	guerilla
+2748	autism speaks
+2749	registered nurse
+2750	aid group
+2751	the wb
+2752	lombardy
+2753	icelander
+2754	nanchang
+2755	bhumibol adulyadej
+2756	tajik
+2757	lofoten
+2758	uzbekistani
+2759	kazakhstani
+2760	shavkat mirziyoyev
+2761	viet nam
+2762	al mukalla
+2763	jodhpur
+2764	labaran maku
+2765	united sates
+2766	saida
+2767	kanagawa
+2768	mozambican
+2769	ramakrishna math
+2770	barranquilla
+2771	blantyre
+2772	international criminal police organization
+2773	saratov
+2774	crime syndicate
+2775	foreign affairs minist
+2776	nkosazana dlamini zuma
+2777	chitwan
+2778	serviceman
+2779	chief engineer
+2780	economic expert
+2781	cordoba
+2782	islamic council
+2783	sian
+2784	vince cable
+2785	governing party
+2786	zions bancorp
+2787	state duma
+2788	mississippi river
+2789	astrakhan
+2790	philip ruddock
+2791	shandong
+2792	porto
+2793	lee kuan yew
+2794	military dictator
+2795	telecom italia
+2796	macao
+2797	buffalo wild wings
+2798	latvija
+2799	timor leste
+2800	east timor
+2801	timor
+2802	ruling coalition
+2803	foreign affairs ministry
+2804	conservatory
+2805	idex corporation
+2806	ana maria
+2807	secretary of education
+2808	the christian community
+2809	mukalla
+2810	s. africa
+2811	pedro pablo kuczynski
+2812	tutsi
+2813	american association of university women
+2814	gates foundation
+2815	battle tank
+2816	xavier bertrand
+2817	publishing company
+2818	steinhoff international
+2819	hormel foods
+2820	macky sall
+2821	ashraf jehangir qazi
+2822	press agency
+2823	natural resources defense council
+2824	bermudian
+2825	guadeloupe
+2826	stalingrad
+2827	morgan tsvangirai
+2828	allen chastanet
+2829	tendai biti
+2830	rahmatullah nabil
+2831	international institute for applied systems analysis
+2832	ayatollah ruhollah khomeini
+2833	attack helicopters
+2834	abu salem
+2835	swede
+2836	donetsk
+2837	oklahoma city
+2838	buddhist clergy
+2839	monsanto
+2840	paraguayan
+2841	bjarni benediktsson
+2842	prince edward island
+2843	matiur rahman nizami
+2844	internet site
+2845	national economic council
+2846	patuakhali
+2847	public defender
+2848	falun gong
+2849	lalitpur
+2850	ahvaz
+2851	fortress investment group
+2852	ilir meta
+2853	military intelligence
+2854	crusader
+2855	ambassador at
+2856	monrovia
+2857	mayanmar
+2858	embassy in a
+2859	gough whitlam
+2860	gambari
+2861	chongqing
+2862	radio free asia
+2863	snatcher
+2864	alawi
+2865	orleans
+2866	limousin
+2867	luxor
+2868	odesa
+2869	prithviraj chavan
+2870	rotterdam
+2871	beehive state
+2872	islamic extremist group
+2873	guadalcanal
+2874	protalix biotherapeutics
+2875	security check
+2876	negev desert
+2877	naval base
+2878	invesco
+2879	naturalized
+2880	xining
+2881	nusa tenggara
+2882	monte carlo
+2883	brescia
+2884	david thompson
+2885	mandar
+2886	american association for the advancement of science
+2887	hardeep singh puri
+2888	nvidia
+2889	broadridge financial solutions
+2890	tim hortons
+2891	ehud olmert
+2892	immigration minist
+2893	malvinas
+2894	bavaria
+2895	rashtriya swayamsevak sangh
+2896	falklands
+2897	ruhr
+2898	sunbelt
+2899	apple inc
+2900	monterrey
+2901	galapagos islands
+2902	health facility
+2903	landing ship
+2904	vijay goel
+2905	international commission of jurists
+2906	mapuche
+2907	perkinelmer
+2908	saint kitts and nevis
+2909	abila
+2910	junior officer
+2911	bandung
+2912	naval officer
+2913	world resources institute
+2914	continental resources inc
+2915	servicem
+2916	student army
+2917	goodyear tire
+2918	kongo
+2919	merchant ship
+2920	temuco
+2921	isreali
+2922	corsican
+2923	fujian
+2924	separatist leader
+2925	siam
+2926	corinth
+2927	united liberation front of assam
+2928	la paz
+2929	evo morales
+2930	exiled opposition
+2931	hokkaido
+2932	venetia
+2933	oxfam
+2934	the asia society
+2935	costco
+2936	robert gates
+2937	newfoundland and labrador
+2938	landholder
+2939	presidium
+2940	medical institution
+2941	world tourism organization
+2942	aswan
+2943	burger king
+2944	lieutenant colonel
+2945	baja california
+2946	manaus
+2947	michael scott
+2948	grece
+2949	sinhalese
+2950	ernest bai koroma
+2951	religious affairs minist
+2952	doctors without borders
+2953	bnp paribas
+2954	och ziff
+2955	soe myint
+2956	ibrahim boubacar keita
+2957	jacques fame ndongo
+2958	al qaeda in iraq
+2959	whole foods market
+2960	grand rapids
+2961	manulife
+2962	al haq
+2963	anand sharma
+2964	peoples bank
+2965	defense contractor
+2966	valeant pharmaceuticals
+2967	aragon
+2968	guizhou
+2969	concerned christians
+2970	border patrol police
+2971	al gore
+2972	gayo
+2973	latter day saints
+2974	american enterprise institute
+2975	torreon
+2976	commerce department
+2977	guernsey
+2978	khalifa bin salman al khalifa
+2979	katrin jakobsdottir
+2980	uygur
+2981	hamgyong
+2982	mikhail gorbachev
+2983	western sahara
+2984	pzena investment management
+2985	pfizer
+2986	managing editor
+2987	santiago de cuba
+2988	olympus
+2989	keith mitchell
+2990	james ryan
+2991	government representative
+2992	reformed church
+2993	public service commission
+2994	militant movement
+2995	samoan
+2996	tuilaepa sailele malielegaoi
+2997	medical practitioner
+2998	zaidi
+2999	teva pharmaceutical
+3000	formosa
+3001	native people
+3002	west java
+3003	quanex building products
+3004	harlot
+3005	manuel noriega
+3006	moro islamic liberation front
+3007	raven industries
+3008	food and agriculture organization
+3009	lenin moreno
+3010	chukchi
+3011	david petraeus
+3012	rockefeller foundation
+3013	hasbro
+3014	guayaquil
+3015	jorge glas
+3016	defense lawyer
+3017	quito
+3018	grand canyon
+3019	military delegation
+3020	commerce secretary
+3021	student protester
+3022	bank of the ozarks
+3023	arapaho
+3024	taif
+3025	cebuano
+3026	toulon
+3027	agnostic
+3028	bharrat jagdeo
+3029	hyatt hotels
+3030	bahamian
+3031	beti
+3032	military wing
+3033	martinique
+3034	saigon
+3035	medical building
+3036	centre for human rights
+3037	lattice semiconductor corp
+3038	ituri
+3039	grozny
+3040	torpedo boat
+3041	demerara
+3042	macuata
+3043	isreal
+3044	manuel zelaya
+3045	spy ship
+3046	freedom from religion foundation
+3047	humane society of the united states
+3048	buddhism
+3049	kuwait city
+3050	angora
+3051	moneygram international
+3052	bay state
+3053	ragusa
+3054	exiles
+3055	mahendra chaudhry
+3056	protesting worker
+3057	intel corporation
+3058	children international
+3059	land of lincoln
+3060	agriculturalist
+3061	the iu
+3062	international rescue committee
+3063	bemba
+3064	secretary of the interior
+3065	military junta
+3066	united church of canada
+3067	yang jiechi
+3068	social reformer
+3069	rebel commander
+3070	land force
+3071	amrc
+3072	occidental petroleum
+3073	zapotec
+3074	xcel energy
+3075	michael graham
+3076	mam bun heng
+3077	banteay meanchey
+3078	national space society
+3079	syngenta
+3080	mafia boss
+3081	lesbos
+3082	international labor organization
+3083	politburo member
+3084	gordon brown
+3085	delta sigma theta
+3086	carl bildt
+3087	salvadoran
+3088	phalanx
+3089	said musa
+3090	freighter
+3091	perlis
+3092	ingersoll rand
+3093	corrections corporation of america
+3094	corinthian colleges
+3095	evergreen state
+3096	kazachstan
+3097	new river
+3098	hindu pilgrim
+3099	space agency
+3100	confucianism
+3101	gifu
+3102	annapurna
+3103	national court
+3104	violent group
+3105	mesopotamia
+3106	nursultan nazarbayev
+3107	westpac banking corporation
+3108	zaragoza
+3109	assyria
+3110	audley shaw
+3111	saarc
+3112	anthony albanese
+3113	argentinean
+3114	montego bay
+3115	energy transfer partners
+3116	dana rohrabacher
+3117	khasi
+3118	shared interest
+3119	destroyer
+3120	dhankuta
+3121	lawman
+3122	fireman
+3123	juan carlos varela
+3124	southeast asian nations
+3125	general mills
+3126	kula
+3127	republic of the congo
+3128	tesol
+3129	combat aircraft
+3130	wurzburg
+3131	david gibbons
+3132	monacan
+3133	noh omar
+3134	attaur rehman
+3135	majorca
+3136	susu
+3137	columbia river
+3138	anhui
+3139	publishing house
+3140	aqua america
+3141	un envoy
+3142	department of civil aviation
+3143	scotsman
+3144	ken clarke
+3145	liow tiong lai
+3146	switzer
+3147	catholic relief services
+3148	global witness
+3149	faysal
+3150	prisons department
+3151	kriya yoga
+3152	haikou
+3153	angie motshekga
+3154	gunrunner
+3155	political detainee
+3156	genworth financial
+3157	dalian
+3158	civic group
+3159	daejeon
+3160	heilongjiang
+3161	phang nga
+3162	udayapur
+3163	ppg industries
+3164	peter smith
+3165	louise arbour
+3166	muslim cleric
+3167	eyre
+3168	goma
+3169	quaid e azam
+3170	lal masjid
+3171	parsa
+3172	bodo
+3173	angelino alfano
+3174	indore
+3175	moravian church
+3176	sunshine state
+3177	krasnoyarsk
+3178	american friends service committee
+3179	social watch
+3180	stabroek
+3181	kisumu
+3182	medical specialist
+3183	legate
+3184	apartment investment and management company
+3185	brno
+3186	savings and loan
+3187	delta air lines
+3188	jaap de hoop scheffer
+3189	ambassador to the u
+3190	jaroslaw kaczynski
+3191	iban
+3192	atheism
+3193	army intelligence
+3194	quang nam
+3195	high official
+3196	telecommunication minist
+3197	ningbo
+3198	turncoat
+3199	ethnic rebel
+3200	mahakali
+3201	terai
+3202	gangland
+3203	kanchanaburi
+3204	basotho
+3205	permanent representative to the united nations
+3206	soka gakkai
+3207	aomori
+3208	gyeonggi
+3209	datong
+3210	politburo
+3211	manx
+3212	military patrol
+3213	sind
+3214	semarang
+3215	pyuthan
+3216	aliran
+3217	helmut kohl
+3218	ewald nowotny
+3219	iranian oil company
+3220	caterpillar inc
+3221	nelson chamisa
+3222	swahili
+3223	galicia
+3224	agriculturist
+3225	slavic
+3226	lang son
+3227	nguyen xuan phuc
+3228	welfare minist
+3229	robin yearwood
+3230	meerut
+3231	fikile mbalula
+3232	central african
+3233	yamagata
+3234	gansu
+3235	george osborne
+3236	hugo chavez
+3237	nawabganj
+3238	montevideo
+3239	benjamin mkapa
+3240	telecom firm
+3241	drug kingpin
+3242	culebra
+3243	businessperson
+3244	dr pepper snapple
+3245	apia
+3246	dushanbe
+3247	aleph
+3248	astrazeneca
+3249	ayeyarwady
+3250	mullaitivu
+3251	moshe kahlon
+3252	liberation tigers of tamil eelam
+3253	rajitha senaratne
+3254	investigative agency
+3255	sichuan
+3256	fisheries and livestock minist
+3257	backward classes
+3258	resistance leader
+3259	ofid
+3260	rangoon
+3261	trade official
+3262	uppsala
+3263	ford motor
+3264	fortaleza
+3265	maseru
+3266	letsie iii
+3267	dogras
+3268	the local church
+3269	irishman
+3270	organized labor
+3271	zaria
+3272	munshiganj
+3273	weimar
+3274	bishkek
+3275	jiangsu
+3276	mikheil saakashvili
+3277	economy secretary
+3278	pashtun
+3279	kadazan
+3280	shafie apdal
+3281	den haag
+3282	kasuri
+3283	dijon
+3284	mario draghi
+3285	council of the union
+3286	antalya
+3287	louise mushikiwabo
+3288	kemet corporation
+3289	alexion pharmaceutical
+3290	italia
+3291	mastercard
+3292	latvian
+3293	commonwealth of independent states
+3294	webster shamu
+3295	parallel government
+3296	narcotics officer
+3297	heifer international
+3298	tasman
+3299	tenant farmer
+3300	airman
+3301	mpumalanga
+3302	polynesian
+3303	international labour organization
+3304	donald tusk
+3305	actionaid
+3306	ferrara
+3307	maronite
+3308	boat people
+3309	danish refugee council
+3310	care international
+3311	scana corp
+3312	alsace
+3313	world energy council
+3314	papuan
+3315	joseph smith
+3316	papua
+3317	blade nzimande
+3318	edirne
+3319	construction minist
+3320	counterfeiter
+3321	liechtenstein
+3322	jeune afrique
+3323	scientology
+3324	leon panetta
+3325	regina ip
+3326	shijiazhuang
+3327	suriname
+3328	rheinland
+3329	chandrika kumaratunga
+3330	labor secretary
+3331	academician
+3332	irrigation minist
+3333	sinclair broadcast group
+3334	ixia
+3335	displaced families
+3336	englishman
+3337	elvira nabiullina
+3338	limnos
+3339	us treasury
+3340	andrew smith
+3341	intelligence information
+3342	malian
+3343	mongol
+3344	kamchatka
+3345	treasury minist
+3346	faroe
+3347	guinea bissau
+3348	bissau
+3349	tourism office
+3350	rebel soldier
+3351	san marino
+3352	andalucia
+3353	tooro
+3354	zhengzhou
+3355	salzburg
+3356	international energy agency
+3357	center for security policy
+3358	gaziantep
+3359	siemens ag
+3360	pearnel charles
+3361	joseph estrada
+3362	attack craft
+3363	paul gallagher
+3364	yuval steinitz
+3365	lower saxony
+3366	thomas de maiziere
+3367	tagalog
+3368	matamoros
+3369	gomorrah
+3370	northern cape
+3371	patrick manning
+3372	nathi mthethwa
+3373	dien bien
+3374	peace action
+3375	dullas alahapperuma
+3376	great wall
+3377	civil courts
+3378	chiang rai
+3379	mncs
+3380	viktor medvedchuk
+3381	andalusia
+3382	posse
+3383	yashwant sinha
+3384	williams sonoma
+3385	qinghai
+3386	bridgetown
+3387	hangzhou
+3388	philip alston
+3389	lichtenstein
+3390	holy see
+3391	striking worker
+3392	foreign relations committee
+3393	ensign
+3394	elected bodies
+3395	negeri sembilan
+3396	sierra leonean
+3397	hefei
+3398	dusseldorf
+3399	industries minist
+3400	nagoya
+3401	spy agency
+3402	death squad
+3403	montserrat
+3404	teodoro obiang nguema
+3405	black river
+3406	grenadian
+3407	royal court
+3408	government soldier
+3409	outaouais
+3410	american humanist association
+3411	government in exile
+3412	yantai
+3413	murmansk
+3414	international civil aviation organization
+3415	untouchables
+3416	salish
+3417	togolese
+3418	minister without portfolio
+3419	henry oryem okello
+3420	kazan
+3421	secretary of labor
+3422	hindu munnani
+3423	deobandi
+3424	treasure state
+3425	economic community of west african states
+3426	mekong river commission
+3427	china railway construction corp
+3428	kishoreganj
+3429	didier reynders
+3430	organisation for economic cooperation and development
+3431	mohammed vi
+3432	ministers of state
+3433	national security service
+3434	ural mountains
+3435	ohio river
+3436	shanghai cooperation organization
+3437	maniema
+3438	barisal
+3439	mental institution
+3440	ruling faction
+3441	petroleum minist
+3442	hosni mubarak
+3443	nantes
+3444	manikganj
+3445	joyce banda
+3446	bruce lindsey
+3447	john boehner
+3448	speaker of parliament
+3449	missouri river
+3450	lari
+3451	umbria
+3452	bayan palace
+3453	kyrgyz
+3454	rabble
+3455	rabobank
+3456	bremen
+3457	church of south india
+3458	fukui
+3459	secretary of the treasury
+3460	vincentian
+3461	saboto caesar
+3462	roseau
+3463	shaivism
+3464	poona
+3465	kapil sibal
+3466	michael smith
+3467	plan international
+3468	judges
+3469	simbu
+3470	thokozani khupe
+3471	vishwa hindu parishad
+3472	director general of civil aviation
+3473	pilsen
+3474	saint lawrence
+3475	secretary of commerce
+3476	franklin templeton
+3477	burkinabe
+3478	international union for the conservation of nature
+3479	gopalganj
+3480	sumitomo mitsui
+3481	guadalajara
+3482	bancorpsouth
+3483	suntrust banks
+3484	army rangers
+3485	natan sharansky
+3486	banten
+3487	gunslinger
+3488	cape verde
+3489	garifuna
+3490	un mission
+3491	flag officer
+3492	miguel vargas
+3493	singh sidhu
+3494	herman miller
+3495	guttmacher institute
+3496	hamad bin khalifa al thani
+3497	john delaney
+3498	ishikawa
+3499	teso
+3500	schoolhouse
+3501	asuncion
+3502	digitalglobe
+3503	thein zaw
+3504	wagram
+3505	privateer
+3506	haida
+3507	nile river
+3508	kansas city southern
+3509	university park
+3510	merrill lynch
+3511	port vila
+3512	dion foulkes
+3513	swazi
+3514	ibrahim al jaafari
+3515	union pacific
+3516	tupperware
+3517	swizerland
+3518	pursat
+3519	battambang
+3520	center for strategic and international studies
+3521	lomaiviti
+3522	nanning
+3523	sitiveni rabuka
+3524	carmelites
+3525	rafsanjani
+3526	shaw communications
+3527	administrative body
+3528	colac
+3529	julius maada bio
+3530	linz
+3531	accenture plc
+3532	alejandro toledo
+3533	prelate
+3534	wendy sherman
+3535	james moore
+3536	felesteen
+3537	latakia
+3538	yoweri kaguta museveni
+3539	svalbard
+3540	lloyds tsb
+3541	leona aglukkaq
+3542	fukushima
+3543	caseworker
+3544	car manufacturer
+3545	janet napolitano
+3546	eamon ryan
+3547	flds
+3548	moslem
+3549	syed ashraful islam
+3550	us student
+3551	imperial oil
+3552	northwest territories
+3553	newspaper publisher
+3554	makonde
+3555	champasak
+3556	susil premajayantha
+3557	isa yuguda
+3558	parnassus
+3559	cameroun
+3560	alleged militants
+3561	ruby tuesday
+3562	pickpocket
+3563	abdollah ramezanzadeh
+3564	diosdado cabello
+3565	lubeck
+3566	kidnaper
+3567	labour activist
+3568	versailles
+3569	binh thuan
+3570	trinidadian
+3571	novaya zemlya
+3572	kandy
+3573	james robertson
+3574	intelligence agent
+3575	homel
+3576	hai duong
+3577	drug mule
+3578	joinville
+3579	michael cullen
+3580	chon buri
+3581	liege
+3582	party alliance
+3583	lamba
+3584	kandal
+3585	oaxaca
+3586	changhua county
+3587	tyumen
+3588	thabo mbeki
+3589	aftab ahmad khan sherpao
+3590	toulouse
+3591	niue
+3592	sirius xm
+3593	halliburton
+3594	chios
+3595	tarawa
+3596	hewitt associates
+3597	hu jintao
+3598	aruba networks
+3599	ministers and mps
+3600	managua
+3601	bugis
+3602	manipuri
+3603	spiritualist
+3604	mossi
+3605	yunnan
+3606	rogers communication
+3607	somalian
+3608	paul mashatile
+3609	maite nkoana mashabane
+3610	akka
+3611	bantu
+3612	kavango
+3613	auto manufacturer
+3614	kalasin
+3615	zaza
+3616	republic of belarus
+3617	miguel oyono ndong
+3618	teodoro nguema obiang
+3619	ohchr
+3620	mohammad yasin malik
+3621	research institution
+3622	micronesian
+3623	american jewish world service
+3624	kurgan
+3625	tarai
+3626	trial attorney
+3627	canaries
+3628	king juan carlos
+3629	bida
+3630	arab emirates
+3631	karl samuda
+3632	intelligence operation
+3633	meteorological department
+3634	dinesh gunawardena
+3635	algerie
+3636	pricesmart inc
+3637	kirghiz
+3638	armed rebel
+3639	anifah aman
+3640	iain duncan smith
+3641	canary islands
+3642	micheal martin
+3643	bertie ahern
+3644	ram naik
+3645	drug lord
+3646	gun for hire
+3647	tokyo sexwale
+3648	virgin media
+3649	maroc
+3650	an giang
+3651	prawit wongsuwan
+3652	norodom sihamoni
+3653	gulbuddin hekmatyar
+3654	pompeii
+3655	lech walesa
+3656	liech
+3657	altria group
+3658	united state of america
+3659	moshe yaalon
+3660	potash corporation of saskatchewan
+3661	nihon
+3662	satanism
+3663	luis alberto moreno
+3664	prag
+3665	federated states of micronesia
+3666	fire brigade official
+3667	kurdistan workers party
+3668	china southern airlines
+3669	agrium inc
+3670	nuwakot
+3671	dodoma
+3672	santeria
+3673	commerzbank
+3674	beacon roofing supply
+3675	acholi
+3676	pattani
+3677	noakhali
+3678	emissary
+3679	lietuvos
+3680	chaldean catholic church
+3681	national endowment for democracy
+3682	jonathan taylor
+3683	foreign terrorist organization
+3684	tearfund
+3685	displaced family
+3686	vice foreign minister
+3687	patent office
+3688	sunflower state
+3689	jacques chirac
+3690	medan
+3691	madeira
+3692	harris corporation
+3693	united parcel service
+3694	wenzhou
+3695	novosibirsk
+3696	mondulkiri
+3697	nazmul huda
+3698	oriya
+3699	riau
+3700	action against hunger
+3701	great wall of china
+3702	david allen
+3703	sergey sobyanin
+3704	genzyme corporation
+3705	changzhou
+3706	zuni
+3707	charleroi
+3708	berne
+3709	nouakchott
+3710	beckman coulter
+3711	bashir ahmed
+3712	revolutionary movement
+3713	libreville
+3714	trw automotive
+3715	persia
+3716	okello oryem
+3717	midi
+3718	elmar mammadyarov
+3719	nash finch
+3720	comscore
+3721	kfir
+3722	slum dweller
+3723	tyrol
+3724	afganistan
+3725	jainism
+3726	inter parliamentary union
+3727	hellas
+3728	huntsman
+3729	deng alor kuol
+3730	yucatan peninsula
+3731	danny faure
+3732	east african community
+3733	planned parenthood federation
+3734	bandarban
+3735	daqing
+3736	dutch court
+3737	provisional government
+3738	foreign correspondent
+3739	pharmaceutical firm
+3740	international federation of journalists
+3741	sankhuwasabha
+3742	wakayama
+3743	childfund
+3744	supreme council of ethnikoi hellenes
+3745	henrietta fore
+3746	old catholic church
+3747	stavanger
+3748	nonthaburi
+3749	amanullah khan
+3750	james smith
+3751	sava
+3752	transparency international
+3753	land of opportunity
+3754	china christian council
+3755	texas instruments
+3756	asturian
+3757	addameer
+3758	public committee against torture in israel
+3759	lim boon heng
+3760	aga khan foundation
+3761	goh chok tong
+3762	armed opposition group
+3763	ruhakana rugunda
+3764	narsingdi
+3765	balearic islands
+3766	mike moore
+3767	samarkand
+3768	islam karimov
+3769	marzieh vahid dastjerdi
+3770	luxembourger
+3771	committee of state
+3772	research in motion
+3773	sunopta
+3774	liberal international
+3775	usama bin laden
+3776	cropper
+3777	sergey lavrov
+3778	laisenia qarase
+3779	commonwealth of nations
+3780	chief of defence staff
+3781	byblos
+3782	elton mangoma
+3783	combat ship
+3784	adivasi
+3785	christopher hill
+3786	postal department
+3787	atwood oceanics
+3788	izmir
+3789	stoneridge inc
+3790	basseterre
+3791	defence for children international
+3792	agilent technologies
+3793	american institute in taiwan
+3794	united states institute of peace
+3795	sanatan sanstha
+3796	national board of revenue
+3797	aken
+3798	zhuang
+3799	bruges
+3800	environmental defense
+3801	bosniaks
+3802	olusegun obasanjo
+3803	washington mutual
+3804	ntt docomo
+3805	margaret wilson
+3806	denis coderre
+3807	rush limbaugh
+3808	alpha kappa alpha
+3809	sucre
+3810	medellin
+3811	mercy ships
+3812	davao region
+3813	belmopan
+3814	aftab ahmed
+3815	yukiya amano
+3816	little sisters of the poor
+3817	antarctic treaty
+3818	conservative coalition
+3819	sears holdings
+3820	union representative
+3821	canadian pacific railway
+3822	dame pearlette louisy
+3823	secretary of agriculture
+3824	attica
+3825	wire service
+3826	aerovironment
+3827	refugees international
+3828	rangamati
+3829	arno
+3830	vishakhapatnam
+3831	christian missionaries
+3832	national wildlife federation
+3833	haruhiko kuroda
+3834	port au prince
+3835	tayeb louh
+3836	arthur andersen
+3837	air force chief
+3838	richard gordon
+3839	polyone corporation
+3840	amerisourcebergen
+3841	encore capital group
+3842	nubian
+3843	fred mitchell
+3844	muslim pilgrim
+3845	kenny anthony
+3846	the uk
+3847	suphan buri
+3848	hondo
+3849	amazon watch
+3850	ecuadorean
+3851	forum for african women educationalists
+3852	tractor supply company
+3853	martha stewart living
+3854	mymensingh
+3855	troops in iraq
+3856	jilin
+3857	naitasiri
+3858	tailevu
+3859	alpha timbo
+3860	hoosier state
+3861	george p
+3862	el alamein
+3863	inchon
+3864	arya samaj
+3865	karnali
+3866	mormonism
+3867	crown prince haakon
+3868	arm holdings
+3869	khieu samphan
+3870	revolutionary united front
+3871	old dominion
+3872	mobster
+3873	council of state
+3874	administrative official
+3875	physicians for social responsibility
+3876	kyaw win
+3877	nordea
+3878	del monte foods
+3879	twelver
+3880	fidh
+3881	eternal city
+3882	secret agent
+3883	international terrorist
+3884	wroclaw
+3885	concho resources
+3886	aboriginal australians
+3887	altaf hussain
+3888	muscogee
+3889	junior chamber international
+3890	drug pusher
+3891	antananarivo
+3892	comoros
+3893	boyko borissov
+3894	td bank
+3895	s. subramaniam
+3896	herdsman
+3897	bengali hindu
+3898	dong thap
+3899	braunschweig
+3900	solukhumbu
+3901	rotuma
+3902	invacare corporation
+3903	general practitioner
+3904	khanh hoa
+3905	east java
+3906	kenneth kaunda
+3907	pitcairn
+3908	the phillipines
+3909	asian human rights commission
+3910	ciudad juarez
+3911	advantest corporation
+3912	global policy forum
+3913	banke
+3914	sooner state
+3915	tanya plibersek
+3916	husain haqqani
+3917	metlife
+3918	janakpur
+3919	lumbini
+3920	jaliya wickramasuriya
+3921	darmin nasution
+3922	namadi sambo
+3923	rupandehi
+3924	dammam
+3925	ivan gasparovic
+3926	hyogo
+3927	mon state
+3928	west african development bank
+3929	commercial enterprise
+3930	eaton corporation
+3931	muslim radical
+3932	dalia grybauskaite
+3933	mohamed nazri abdul aziz
+3934	malusi gigaba
+3935	udon thani
+3936	balinese
+3937	shahbaz bhatti
+3938	jail guard
+3939	ismaili
+3940	malmo
+3941	sotho
+3942	enemy combatant
+3943	adolf mwesige
+3944	steelworker
+3945	cesvi
+3946	robert gabriel mugabe
+3947	us of a
+3948	port sudan
+3949	french guiana
+3950	opposition senator
+3951	separatist movement
+3952	javanese
+3953	crimean tatar
+3954	altai
+3955	kalahari
+3956	centrafrique
+3957	cattle thief
+3958	sam kutesa
+3959	ian martin
+3960	tetra technologies inc
+3961	celanese corporation
+3962	hsbc holdings
+3963	citrix systems
+3964	symantec corporation
+3965	hmong
+3966	chief editor
+3967	mbeya
+3968	galapagos
+3969	manang
+3970	fighter bomber
+3971	international rice research institute
+3972	women for women international
+3973	guerrilla force
+3974	containership
+3975	gia lai
+3976	viktor yanukovych
+3977	festus mogae
+3978	tabriz
+3979	dahomey
+3980	jambi
+3981	ngor
+3982	azeri
+3983	igor sechin
+3984	alyaksandr lukashenka
+3985	marriot international
+3986	miguel mejia
+3987	henrique meirelles
+3988	aruban
+3989	hindu priest
+3990	international social service
+3991	peabody energy corp
+3992	textron
+3993	assyrian
+3994	welshman
+3995	zoroastrianism
+3996	ladenburg thalmann
+3997	hbos
+3998	constellation brands inc
+3999	changsha
+4000	episcopalian
+4001	tahitian
+4002	ajit singh
+4003	congo brazzaville
+4004	moudud ahmed
+4005	gazipur
+4006	military justice
+4007	serengeti
+4008	pskov
+4009	black liberation army
+4010	make a wish foundation
+4011	civil officer
+4012	brent symonette
+4013	xhosa
+4014	lubavitch
+4015	organization of petroleum exporting countries
+4016	sharia court
+4017	syrian desert
+4018	koln
+4019	d company
+4020	natore
+4021	mizo
+4022	telus
+4023	george chaponda
+4024	mary robinson
+4025	arch chemicals inc
+4026	zomba
+4027	ecolab inc
+4028	kamba
+4029	barbudans
+4030	international human rights group
+4031	diageo plc
+4032	attack helicopter
+4033	gamini jayawickrema perera
+4034	ahmed ouyahia
+4035	adana
+4036	transportation worker
+4037	lawrence gonzi
+4038	statoil asa
+4039	radioshack
+4040	richard webb
+4041	rosen plevneliev
+4042	aflac
+4043	ahmadis
+4044	national capital territory of delhi
+4045	vivian balakrishnan
+4046	american psychological association
+4047	zanla
+4048	unitarianism
+4049	maria fernanda espinosa
+4050	pascal lamy
+4051	bucuresti
+4052	grand canal
+4053	medical official
+4054	namoi
+4055	pandeli majko
+4056	public health institute
+4057	corazon aquino
+4058	vichy
+4059	old colony
+4060	public relations society of america
+4061	life time fitness
+4062	tawahka
+4063	urals
+4064	porto alegre
+4065	armed insurgent
+4066	krispy kreme
+4067	urban outfitters
+4068	erna solberg
+4069	nilphamari
+4070	khagrachari
+4071	russian catholic church
+4072	equatorial guinean
+4073	mwanza
+4074	rights international
+4075	nikola gruevski
+4076	mwai kibaki
+4077	zoroastrian
+4078	show me state
+4079	susan shabangu
+4080	alur
+4081	water minist
+4082	united emirates
+4083	silvio berlusconi
+4084	kuan chung
+4085	ueli maurer
+4086	vonage
+4087	joint strike fighter
+4088	media rights group
+4089	jens stoltenberg
+4090	picketer
+4091	bakri hassan salih
+4092	jaffa
+4093	yucatan
+4094	pen america
+4095	slovakian
+4096	abu musab
+4097	interim leader
+4098	camillo gonsalves
+4099	kgalema motlanthe
+4100	lodz
+4101	zealand
+4102	petrograd
+4103	world uyghur congress
+4104	lifespring
+4105	international maritime organization
+4106	christian identity
+4107	messianic jews
+4108	picardy
+4109	breslau
+4110	fairchild semiconductor
+4111	berber
+4112	spokesman for the opposition
+4113	volunteer state
+4114	salar
+4115	international development research centre
+4116	fukuoka
+4117	dinajpur
+4118	abdullatif sener
+4119	bulent arinc
+4120	hot topic inc
+4121	kenia
+4122	urmia
+4123	nation of islam
+4124	john bryan
+4125	human rights first
+4126	war correspondent
+4127	plovdiv
+4128	loire
+4129	david dodge
+4130	usvi
+4131	aswan high dam
+4132	bagerhat
+4133	clmv
+4134	yusuf kalla
+4135	smolensk
+4136	solomons
+4137	worldwide church of god
+4138	dhanbad
+4139	teradata corporation
+4140	volga
+4141	suchinda kraprayoon
+4142	ratchaburi
+4143	state councilor
+4144	chartres
+4145	keppel corporation
+4146	taoyuan
+4147	prince norodom sihanouk
+4148	chaiyaphum
+4149	insurgent leader
+4150	nguyen thien nhan
+4151	thai nguyen
+4152	shaukat aziz
+4153	nghe an
+4154	nabors industries
+4155	puglia
+4156	krabi
+4157	hadi al amiri
+4158	sodom
+4159	mukul wasnik
+4160	bill and melinda gates foundation
+4161	mgm resorts
+4162	baglung
+4163	yamana gold
+4164	samut prakan
+4165	balaton
+4166	daniel arap moi
+4167	khotang
+4168	rajendra mahato
+4169	surujrattan rambachan
+4170	abb ltd
+4171	institute of international finance
+4172	makwanpur
+4173	mehmet mehdi eker
+4174	medical social worker
+4175	newcastle upon tyne
+4176	chumphon
+4177	badulla
+4178	kyushu
+4179	leyden
+4180	mordovia
+4181	kirghizstan
+4182	orthodox church in america
+4183	schweiz
+4184	kolinda grabar kitarovic
+4185	jordon
+4186	khaled nordin
+4187	hausa fulani
+4188	muslim militant
+4189	tsonga
+4190	ruling party mp
+4191	miyagi
+4192	conman
+4193	representative to the un
+4194	michelle bachelet
+4195	argos
+4196	ankole
+4197	kushtia
+4198	farooq sattar
+4199	nuclear threat initiative
+4200	hector timerman
+4201	church of the brethren
+4202	special commission
+4203	bahadur singh
+4204	li lanqing
+4205	walter mzembi
+4206	george fernandes
+4207	portia simpson miller
+4208	livonia
+4209	chiang mai
+4210	protest group
+4211	slovenes
+4212	valero energy
+4213	ronald toppin
+4214	association of south east asian nations
+4215	mimaropa
+4216	roman catholicism
+4217	mongar
+4218	furniture maker
+4219	deutschland
+4220	krakow
+4221	gamal abdel nasser
+4222	leftist party
+4223	national lawyers guild
+4224	duala
+4225	serial murderer
+4226	world association of newspapers
+4227	kurigram
+4228	farooq abdullah
+4229	bromberg
+4230	moses wetangula
+4231	progressive judaism
+4232	mudar badran
+4233	armed band
+4234	political alliance
+4235	kembo mohadi
+4236	obert mpofu
+4237	ham lini
+4238	zain
+4239	patrick mcloughlin
+4240	prime minster
+4241	interim government
+4242	national democratic institute for international affairs
+4243	ibrahim babangida
+4244	auto maker
+4245	liberation theology
+4246	federal supreme court
+4247	gujranwala
+4248	laotian
+4249	pernambuco
+4250	cook strait
+4251	john wood
+4252	ignatius chombo
+4253	peter kent
+4254	national police chief
+4255	kumamoto
+4256	news organisation
+4257	belem
+4258	gaston browne
+4259	tuareg
+4260	fuego
+4261	call girl
+4262	armed separatist
+4263	islamic rebels
+4264	mohammad najibullah
+4265	rhineland
+4266	rastafarianism
+4267	vasko naumovski
+4268	faisalabad
+4269	daehan
+4270	eli yishai
+4271	bill english
+4272	yitzhak shamir
+4273	janjaweed
+4274	reims
+4275	pulau tikus
+4276	andrew lansley
+4277	michael collins
+4278	sverige
+4279	shimane
+4280	khandaker mosharraf hossain
+4281	kenneth clarke
+4282	saptari
+4283	surkhet
+4284	mnlf
+4285	renamo
+4286	yisroel
+4287	ratnapura
+4288	anshan
+4289	security patrol
+4290	news magazine
+4291	post and telecommunications minist
+4292	ranil wickremasinghe
+4293	sultan bin saeed al mansouri
+4294	army deserter
+4295	arctic cat
+4296	sisters of mercy
+4297	bicol region
+4298	miyazaki
+4299	east sepik
+4300	shanta kumar
+4301	jumbo jet
+4302	power secretary
+4303	dennis young
+4304	ahmad shabery cheek
+4305	narayani
+4306	graduate nurse
+4307	abdur razzak
+4308	salauddin
+4309	arara
+4310	espoo
+4311	housing and public works minist
+4312	jamestown foundation
+4313	jenny shipley
+4314	danielle pletka
+4315	wallis and futuna
+4316	sulawesi
+4317	opposition alliance
+4318	melanesian
+4319	erskine sandiford
+4320	le havre
+4321	czechia
+4322	lingala
+4323	pressman
+4324	tabuk
+4325	peacekeeping troop
+4326	czecho
+4327	frank anthony
+4328	irish republican army
+4329	abdoulaye balde
+4330	bandula gunawardena
+4331	barguna
+4332	malcolm fraser
+4333	buckeye state
+4334	north atlantic treaty organization
+4335	prince johnson
+4336	tawian
+4337	great lakes state
+4338	sanatorium
+4339	ehime
+4340	trond giske
+4341	common market for eastern and southern africa
+4342	liuzhou
+4343	john key
+4344	dawoodi bohra
+4345	battleship
+4346	nakhon phanom
+4347	axiata group
+4348	cape verdean
+4349	hunan
+4350	tongan
+4351	nuwara eliya
+4352	arnold amet
+4353	batticaloa
+4354	deserter
+4355	bushmen
+4356	federation council
+4357	war vessel
+4358	wan gang
+4359	fidel v. ramos
+4360	ma kai
+4361	teodoro obiang nguema mbasogo
+4362	satyam computer services
+4363	hohhot
+4364	sirimavo bandaranaike
+4365	war machine
+4366	ulaanbaatar
+4367	abdulla aripov
+4368	adventist development and relief agency
+4369	cisco systems
+4370	ojibwe
+4371	novo nordisk
+4372	reserve bank governor
+4373	un resident
+4374	silver state
+4375	medecins sans frontieres
+4376	emomali rahmon
+4377	ibaraki
+4378	pravin gordhan
+4379	muslim rebel
+4380	matale
+4381	philemon yang
+4382	lobito
+4383	quang tri
+4384	a. schulman
+4385	palembang
+4386	cooperation minist
+4387	sudan liberation movement
+4388	dong nai
+4389	vijay nambiar
+4390	helen liddell
+4391	gomel
+4392	magura
+4393	celgene corporation
+4394	panchagarh
+4395	world wide fund for nature
+4396	manpower minist
+4397	peter norman
+4398	abn amro
+4399	awadhi
+4400	canadian imperial bank of commerce
+4401	drdgold limited
+4402	ayutthaya
+4403	tourer
+4404	erik solheim
+4405	maritimes
+4406	regis corporation
+4407	eelam
+4408	valetta
+4409	dili
+4410	tangier
+4411	education international
+4412	john dalli
+4413	kwangju
+4414	stateless person
+4415	abdullah al saud
+4416	faroese
+4417	wallonia
+4418	laurent gbagbo
+4419	kansai
+4420	zarqa
+4421	winti
+4422	bengkulu
+4423	thein sein
+4424	david klein
+4425	nanking
+4426	palpa
+4427	lemnos
+4428	lietuva
+4429	oil group
+4430	eric pickles
+4431	andrus ansip
+4432	kemet
+4433	abbott laboratories
+4434	regeneron pharmaceuticals
+4435	international chamber of commerce
+4436	madang
+4437	niugini
+4438	acer inc
+4439	danzig
+4440	ryukyu
+4441	yemenite
+4442	islamic preacher
+4443	taoist
+4444	balochistan liberation army
+4445	wipro limited
+4446	ali akbar salehi
+4447	negev
+4448	ternate
+4449	center for migration studies
+4450	jose eduardo dos santos
+4451	kitakyushu
+4452	separatist militant
+4453	vesuvius
+4454	vvips
+4455	nuer
+4456	religious person
+4457	hired gun
+4458	mount kilimanjaro
+4459	corporate executive
+4460	berkshire hathaway inc
+4461	encana
+4462	lutheran world federation
+4463	chins
+4464	prapat panyachatraksa
+4465	tamil tigers
+4466	basdeo panday
+4467	italie
+4468	national development council
+4469	moro national liberation front
+4470	zarkasih
+4471	mannar
+4472	bujar osmani
+4473	usana health sciences
+4474	education development center
+4475	warner music group
+4476	ali hasanov
+4477	european free trade association
+4478	mauritanie
+4479	romani
+4480	kinross gold corporation
+4481	homero arellano
+4482	california pizza kitchen
+4483	lazio
+4484	electronics maker
+4485	trace international
+4486	jinkosolar
+4487	anatolio ndong mba
+4488	american correctional association
+4489	thuringia
+4490	last frontier
+4491	brookings fellow
+4492	tata communications
+4493	public security bureau
+4494	neuberger berman
+4495	enbridge energy
+4496	fuzhou
+4497	dinka
+4498	bihari
+4499	salvador sanchez ceren
+4500	werner enterprises
+4501	cherbourg
+4502	bgc partners
+4503	regional representative
+4504	global payments inc
+4505	tenet healthcare
+4506	masco corp
+4507	magellan midstream partners
+4508	academy of breastfeeding medicine
+4509	representative assembly
+4510	colima
+4511	willis group
+4512	manyika
+4513	kazakhs
+4514	dept of agriculture
+4515	esko aho
+4516	leonid kravchuk
+4517	republic of congo
+4518	moussa faki
+4519	target corp
+4520	tiruchirappalli
+4521	john mutorwa
+4522	salvadorean
+4523	stung treng
+4524	nadroga navosa
+4525	john agyekum kufuor
+4526	naledi pandor
+4527	cumana
+4528	murrumbidgee
+4529	kanu agabi
+4530	aloha state
+4531	beira
+4532	castries
+4533	world health assembly
+4534	nxp semiconductors
+4535	hhgregg
+4536	sandridge energy
+4537	corporate watch
+4538	patrick faber
+4539	china aid association
+4540	pacific community
+4541	george maxwell richards
+4542	tuvalu
+4543	kunlun
+4544	bassa
+4545	dak nong
+4546	canadian national railway
+4547	time warner cable
+4548	canadian shield
+4549	dhading
+4550	taiyuan
+4551	digambar
+4552	hamad bin isa al khalifa
+4553	capital ship
+4554	kwaku afriyie
+4555	shahin mustafayev
+4556	rebel base
+4557	worldwide fund for nature
+4558	sioux indian
+4559	cubic corporation
+4560	sao tome
+4561	hage geingob
+4562	jumla
+4563	christiania
+4564	achham
+4565	mestizo
+4566	surin
+4567	arequipa
+4568	bac lieu
+4569	ocean state
+4570	mahottari
+4571	taichung
+4572	ytl corp
+4573	sierra wireless
+4574	tatarstan
+4575	shamanism
+4576	consultative group on international agricultural research
+4577	sigma aldrich
+4578	sherpur
+4579	riad salameh
+4580	acehnese
+4581	wynn resorts
+4582	huntsman corporation
+4583	stanley fischer
+4584	thessaly
+4585	clare short
+4586	ursula von der leyen
+4587	caci international
+4588	provident financial services
+4589	david johnston
+4590	tourist board
+4591	yitzhak herzog
+4592	secretary of energy
+4593	orenburg
+4594	ryder system inc
+4595	hutu
+4596	gyeongnam
+4597	wachovia
+4598	batna
+4599	borgwarner
+4600	stmicroelectronics
+4601	jhapa
+4602	lao cai
+4603	suzhou
+4604	chin state
+4605	islamic relief
+4606	abaxis
+4607	illegal party
+4608	hau giang
+4609	protestantism
+4610	sapporo
+4611	the princeton review
+4612	constitutional council
+4613	jiko luveni
+4614	kilinochchi
+4615	campbell soup company
+4616	francis maude
+4617	kate wilkinson
+4618	dongguan
+4619	valdis dombrovskis
+4620	kalutara
+4621	ghassan salameh
+4622	montenegrins
+4623	yen bai
+4624	guadeloupian
+4625	liberal judaism
+4626	wang qishan
+4627	bello usman
+4628	express inc
+4629	john bruton
+4630	circor international
+4631	kaunas
+4632	organization for economic cooperation and development
+4633	laurent fabius
+4634	vertex pharmaceuticals
+4635	cardinal health inc
+4636	turky
+4637	morgan johansson
+4638	lamjung
+4639	matara
+4640	computer maker
+4641	dominique de villepin
+4642	antakya
+4643	survival international
+4644	rocky mountains
+4645	tokai
+4646	neenah paper
+4647	jennifer smith
+4648	gambier islands
+4649	sightsavers
+4650	rona ambrose
+4651	kursk
+4652	rebel delegation
+4653	sendai
+4654	diplomatic building
+4655	durres
+4656	ubon ratchathani
+4657	mcdermott international
+4658	majority party
+4659	refugee advocate
+4660	ingushetia
+4661	fidji
+4662	isabelle picco
+4663	albert ii
+4664	trevor mallard
+4665	john briceno
+4666	david carter
+4667	sousse
+4668	financial secretary
+4669	geneve
+4670	gascony
+4671	criminal barrister
+4672	gabonese
+4673	liberation forces
+4674	chechen republic
+4675	atmos energy corporation
+4676	rockwell automation
+4677	mackenzie river
+4678	beaver state
+4679	volunteers of america
+4680	intercontinental hotels group
+4681	investment commission
+4682	kb home
+4683	supertanker
+4684	muhannad
+4685	palmetto state
+4686	madura
+4687	american international group inc
+4688	pleader
+4689	vincent karega
+4690	yamanashi
+4691	religious court
+4692	triggerman
+4693	light of the south
+4694	shantou
+4695	guiyang
+4696	hermosillo
+4697	kampot
+4698	electricity authority
+4699	steel tycoon
+4700	penny wong
+4701	chs inc
+4702	palk strait
+4703	ramakrishna mission
+4704	henry schein inc
+4705	israil
+4706	krahn
+4707	vienne
+4708	forger
+4709	portugal telecom
+4710	khin maung
+4711	braga
+4712	kjell magne bondevik
+4713	canara
+4714	chipotle mexican grill
+4715	robert harris
+4716	viktor chernomyrdin
+4717	maumoon abdul gayoom
+4718	nyan win
+4719	michael lashley
+4720	military representative
+4721	edward lowassa
+4722	zine el abidine ben ali
+4723	anna kachikho
+4724	eindhoven
+4725	cogo group
+4726	murray river
+4727	neva river
+4728	katmandu
+4729	northern dynasty minerals
+4730	ndjamena
+4731	editor of newspaper
+4732	charles michel
+4733	ingush
+4734	pacific islanders
+4735	nils muiznieks
+4736	oil and natural gas corporation
+4737	pdl biopharma
+4738	danaher corporation
+4739	carlos tavares
+4740	gem state
+4741	malteser international
+4742	manchu
+4743	ulsan
+4744	tatars
+4745	gamini lokuge
+4746	bretagne
+4747	backward castes
+4748	giorgia meloni
+4749	raza rabbani
+4750	temne
+4751	arthur li
+4752	james musoni
+4753	toamasina
+4754	calin popescu tariceanu
+4755	hijaz
+4756	united technologies corporation
+4757	anglogold ashanti
+4758	austrian airlines
+4759	bangui
+4760	norwegian refugee council
+4761	ngo net
+4762	ncr corporation
+4763	putnam investments
+4764	santals
+4765	gaibandha
+4766	bargainer
+4767	trivandrum
+4768	abdiweli mohamed ali
+4769	international medical corps
+4770	rabbis for human rights
+4771	zen master
+4772	costa ricans
+4773	unitarian universalism
+4774	allegheny technologies
+4775	negroponte
+4776	lutheran world relief
+4777	anuradhapura
+4778	janet museveni
+4779	institute of international education
+4780	autoliv inc
+4781	equifax inc
+4782	schools
+4783	peter thomson
+4784	gail teixeira
+4785	zibo
+4786	ashur
+4787	gafisa
+4788	marshallese
+4789	battle group
+4790	lublin
+4791	senate of the republic
+4792	osman saleh
+4793	endeavour silver corp
+4794	bluegrass state
+4795	sardinian
+4796	pon radhakrishnan
+4797	sardinia
+4798	moneragala
+4799	mohamed vi
+4800	li bin
+4801	naxi
+4802	ktunaxa
+4803	vilna
+4804	mario fernandez
+4805	carlos alberto lopes
+4806	green mountain state
+4807	peter dunne
+4808	vistaprint
+4809	soroptimist international
+4810	chanthaburi
+4811	antonio martins da cruz
+4812	evangelical christianity
+4813	lexmark
+4814	mu sochua
+4815	british petroleum
+4816	jaswant singh
+4817	chuan leekpai
+4818	organization of the islamic conference
+4819	nihang
+4820	visa inc
+4821	siraj fegessa
+4822	maffia
+4823	brigand
+4824	abdulsalami abubakar
+4825	polska
+4826	china youth development foundation
+4827	magna international
+4828	mueller water products
+4829	michael makuei lueth
+4830	ion geophysical corporation
+4831	panera bread
+4832	center for reproductive rights
+4833	armed insurgency
+4834	sun life financial
+4835	pratibha patil
+4836	naze
+4837	ishrat hussain
+4838	s. samy vellu
+4839	basilicata
+4840	abu abdullah
+4841	jaak aaviksoo
+4842	federal chancellery
+4843	sholapur
+4844	bamar
+4845	peach state
+4846	daegu
+4847	bhutani
+4848	daryl vaz
+4849	institute of development studies
+4850	lop buri
+4851	untied states
+4852	eduardo rodriguez
+4853	cochabamba
+4854	tangail
+4855	nestor kirchner
+4856	thongloun sisoulit
+4857	orlando smith
+4858	rolpa
+4859	kwesi nduom
+4860	lake tana
+4861	the beloved country
+4862	pingtung county
+4863	human sciences research council
+4864	jerzy buzek
+4865	kagawa
+4866	ian khama
+4867	aung min
+4868	administrative unit
+4869	democratic voice of burma
+4870	house physician
+4871	auvergne
+4872	thakuri
+4873	sasol ltd
+4874	batak
+4875	gran tierra energy
+4876	lahu
+4877	gints jegermanis
+4878	keystone state
+4879	quimbanda
+4880	edna molewa
+4881	pamplemousses
+4882	chelyabinsk
+4883	brian mikkelsen
+4884	lao pdr
+4885	central jail of
+4886	subsistence farmer
+4887	suleyman demirel
+4888	chabad lubavitch
+4889	new human rights
+4890	solingen
+4891	stephen hess
+4892	toluca
+4893	culiacan
+4894	narathiwat
+4895	abdul ali
+4896	baotou
+4897	prison house
+4898	wimal weerawansa
+4899	algonquian
+4900	chechenia
+4901	ken livingstone
+4902	ruth nankabirwa
+4903	hamamatsu
+4904	zonta international
+4905	adventism
+4906	international federation of red cross and red crescent
+4907	crh plc
+4908	cao bang
+4909	academic council on the united nations system
+4910	acuns
+4911	dilxat raxit
+4912	phayao
+4913	canadian council for refugees
+4914	comores
+4915	duesseldorf
+4916	mari el
+4917	entergy mississippi
+4918	cornhusker state
+4919	new ireland
+4920	latium
+4921	lake nasser
+4922	cmmb
+4923	mahamat saleh annadif
+4924	martin amidu
+4925	islamic rebel group
+4926	archimandrite
+4927	international planned parenthood federation
+4928	coahuila
+4929	campinas
+4930	sven mikser
+4931	csx corporation
+4932	orthodox judaism
+4933	uma bharti
+4934	vavuniya
+4935	christian missionary
+4936	polo ralph lauren
+4937	intergovernmental panel on climate change
+4938	namib desert
+4939	alabama power company
+4940	rainforest action network
+4941	physicians for human rights
+4942	international press institute
+4943	tootsie roll industries
+4944	international confederation of midwives
+4945	safe motherhood
+4946	activision blizzard
+4947	jorge rodriguez
+4948	peloponnese
+4949	gen.
+4950	juan peron
+4951	gurbanguly berdimukhamedov
+4952	jason kenney
+4953	unity church
+4954	sunsari
+4955	vicente fox quesada
+4956	china national offshore oil corp
+4957	freundel stuart
+4958	khalid sheikh mohammed
+4959	linas linkevicius
+4960	nizari
+4961	chief of intelligence
+4962	ha giang
+4963	chancellery
+4964	bourgogne
+4965	wilmar international
+4966	john gormley
+4967	mass opposition
+4968	noble group limited
+4969	sociedad peruana de derecho ambiental
+4970	civicus
+4971	thanh hoa
+4972	singapura
+4973	hindu monk
+4974	quanzhou
+4975	opus dei
+4976	leading bank
+4977	baster
+4978	kelebone maope
+4979	amref
+4980	mehmet simsek
+4981	government commission
+4982	nikola dimitrov
+4983	omar zakhilwal
+4984	greenlander
+4985	martin dlamini
+4986	steven joyce
+4987	cafod
+4988	christian solidarity worldwide
+4989	willbros group
+4990	imad moustapha
+4991	jyrki katainen
+4992	parker hannifin
+4993	resistance army
+4994	gaborone
+4995	paramilitary unit
+4996	pelonomi venson
+4997	vaishnavism
+4998	trondheim
+4999	religious affairs bureau
+5000	artois
+5001	darchula
+5002	intergovernmental authority on development
+5003	shahabuddin ahmed
+5004	sule lamido
+5005	tar heel state
+5006	athenahealth
+5007	bohuslav sobotka
+5008	editorialist
+5009	emc corporation
+5010	washington post company
+5011	peter phillips
+5012	michael mcdowell
+5013	renaissancere
+5014	reprobate
+5015	jose ramon machado ventura
+5016	michael barnett
+5017	alkermes
+5018	c. boyden gray
+5019	act alliance
+5020	court justice
+5021	david satter
+5022	ichiro fujisaki
+5023	vivekananda kendra
+5024	gafsa
+5025	lokendra bahadur chand
+5026	desmond tutu
+5027	spree killer
+5028	investigative commission
+5029	peter garrett
+5030	cenovus energy inc
+5031	myint maung
+5032	aetna inc
+5033	ulan bator
+5034	minority rights group
+5035	syriac catholic church
+5036	un secretariat
+5037	cbs corporation
+5038	us ecology inc
+5039	restoration movement
+5040	gilead sciences inc
+5041	rodney hide
+5042	armed rebel group
+5043	meechai ruchupan
+5044	ethnic tamil
+5045	rastafarian
+5046	hammarskjold
+5047	kishinev
+5048	pulau tioman
+5049	amado boudou
+5050	christian priest
+5051	dreamworks animation
+5052	becton dickinson and co
+5053	massawa
+5054	humla
+5055	dailekh
+5056	dhanusa
+5057	acores
+5058	anand ramlogan
+5059	war prisoner
+5060	seyhan
+5061	errol barrow
+5062	quang ngai
+5063	pathum thani
+5064	siraha
+5065	jean asselborn
+5066	ambassador for a
+5067	magway
+5068	sukhbaatar
+5069	arthur j. gallagher
+5070	republic of croatia
+5071	rashid meredov
+5072	raymond joseph
+5073	gampaha
+5074	burkina
+5075	muslim saint
+5076	jamalpur
+5077	jean ping
+5078	arawak
+5079	yancheng
+5080	gerry ritz
+5081	international association for research in income and wealth
+5082	us airways
+5083	kanto
+5084	resident physician
+5085	santiago de chile
+5086	obeah
+5087	graham packaging
+5088	sergei stanishev
+5089	kirov
+5090	world federation of trade unions
+5091	calvary chapel
+5092	nadine morano
+5093	zonta
+5094	horst kohler
+5095	sanusi lamido sanusi
+5096	elvin penner
+5097	nantou county
+5098	apostolic churches
+5099	basia
+5100	akan
+5101	underground resistance
+5102	hierarch
+5103	gildan activewear
+5104	nuba
+5105	dutch east indies
+5106	jajarkot
+5107	zainal abidin
+5108	kadavu
+5109	international sikh youth federation
+5110	association for supervision and curriculum development
+5111	aquitaine
+5112	john boyce
+5113	uttaradit
+5114	vodou
+5115	holy man
+5116	malefactor
+5117	albert reynolds
+5118	logitech
+5119	vili
+5120	private armies
+5121	minangkabau
+5122	alberto fernandez
+5123	iyad allawi
+5124	nizhny novgorod
+5125	word of life church
+5126	tien giang
+5127	john nkomo
+5128	bhojpur
+5129	nyoro
+5130	agitated students
+5131	omdurman
+5132	volga river
+5133	meherpur
+5134	wafd party
+5135	kien giang
+5136	chagatai
+5137	guerilla leader
+5138	john yoo
+5139	koh kong
+5140	sakhalin
+5141	swiss canton
+5142	tlingit
+5143	mary mcaleese
+5144	yakutia
+5145	belarussian
+5146	united reformed church
+5147	baptist churches
+5148	st. kitts and nevis
+5149	ismail haniya
+5150	praia
+5151	afrikaners
+5152	adriel brathwaite
+5153	kingdom of jordan
+5154	preah vihear
+5155	western union company
+5156	gaspar vega
+5157	lai chau
+5158	yang jing
+5159	toliara
+5160	changchun
+5161	kampong cham
+5162	caritas internationalis
+5163	edgar savisaar
+5164	klaipeda
+5165	queretaro
+5166	songkhla
+5167	muslim separatist rebel
+5168	kinh
+5169	tamil eelam
+5170	extra space storage
+5171	ostrava
+5172	oiler
+5173	rita fan
+5174	traian basescu
+5175	open joint stock company
+5176	hassanal bolkiah
+5177	binh phuoc
+5178	ancient church of the east
+5179	welfare worker
+5180	irishwoman
+5181	intuitive surgical inc
+5182	christopher tufton
+5183	ahmet davutoglu
+5184	bijan namdar zanganeh
+5185	stanislau shushkevich
+5186	tommy remengesau
+5187	suisse
+5188	congress of racial equality
+5189	watts water technologies
+5190	athos
+5191	peloponnesus
+5192	astara
+5193	ayaan hirsi ali
+5194	prachuap khiri khan
+5195	moustapha niasse
+5196	dimash
+5197	karelia
+5198	lester bird
+5199	bordello
+5200	ivanhoe mines
+5201	carlos osorio
+5202	privatization commission
+5203	ecpat
+5204	opposition daily
+5205	mongo
+5206	andorra
+5207	ahmed ben bella
+5208	coalition of opposition parties
+5209	east cape
+5210	lions clubs international
+5211	vishva hindu parishad
+5212	bill graham
+5213	christian noyer
+5214	united nations secretariat
+5215	punakha
+5216	serhiy lyovochkin
+5217	mande
+5218	manitowoc company
+5219	regnum christi
+5220	lulua
+5221	marist brothers
+5222	missioner
+5223	anote tong
+5224	malaita
+5225	takeo
+5226	xinca
+5227	cape colony
+5228	susan e. rice
+5229	steven hayward
+5230	saitama
+5231	aar corp
+5232	krakatau
+5233	mia mottley
+5234	canon inc
+5235	washington real estate investment trust
+5236	guinee
+5237	arab organization for human rights
+5238	transvaal
+5239	tohoku
+5240	alfred sant
+5241	mannheim
+5242	jeff radebe
+5243	arcelor mittal
+5244	artur rasizade
+5245	cordaid
+5246	beliz
+5247	cristina fernandez de kirchner
+5248	thule
+5249	quang ninh
+5250	insurgence
+5251	nakhon pathom
+5252	hla tun
+5253	david waddington
+5254	lezgins
+5255	avars
+5256	jacobs engineering group
+5257	mustapa mohamed
+5258	juan valdes
+5259	kosti manibe ngai
+5260	mahinda samarasinghe
+5261	andrei kobyakov
+5262	marists
+5263	patrice trovoada
+5264	xianyang
+5265	syed yousaf raza gillani
+5266	policewomen
+5267	qiang
+5268	carl xvi gustaf
+5269	gill marcus
+5270	acronym institute for disarmament diplomacy
+5271	rundi
+5272	nikolay mladenov
+5273	paramilitary police
+5274	ironwood pharmaceutical
+5275	myanma
+5276	agnosticism
+5277	maritime provinces
+5278	desmond bannister
+5279	china eastern airlines
+5280	buddhist priest
+5281	republic of south sudan
+5282	cathouse
+5283	martiniquan
+5284	french guianese
+5285	jundallah
+5286	medecins du monde
+5287	ruling junta
+5288	sein win
+5289	united states steel corporation
+5290	hit squad
+5291	tanintharyi
+5292	general of the army
+5293	kampuchea
+5294	louis straker
+5295	lampung
+5296	sanitarium
+5297	hawkeye state
+5298	cloud peak energy
+5299	naval destroyer
+5300	chief justice of the supreme court
+5301	tocantins
+5302	robert zoellick
+5303	saraburi
+5304	john benjamin
+5305	weekend warrior
+5306	carter center
+5307	treasury chief
+5308	gas corp
+5309	yazidism
+5310	takingitglobal
+5311	ayman nour
+5312	the brethren
+5313	anti slavery international
+5314	ethiopian orthodox
+5315	ainu
+5316	donville inniss
+5317	combat troops
+5318	vitamin shoppe
+5319	john carter
+5320	argies
+5321	ulyanovsk
+5322	international centre for integrated mountain development
+5323	vitor constancio
+5324	ebay inc
+5325	lomwe
+5326	valentina matviyenko
+5327	gurbanguly berdimuhamedow
+5328	bingu wa mutharika
+5329	lars lokke rasmussen
+5330	sea robber
+5331	kishore mahbubani
+5332	mahanagar telephone nigam
+5333	illinois tool works
+5334	thai binh
+5335	combat jet
+5336	grand canyon state
+5337	campania
+5338	fluor corporation
+5339	gravenhage
+5340	phetchaburi
+5341	ali bongo ondimba
+5342	gurbanguly berdymukhammedov
+5343	pratibha devisingh patil
+5344	nguyen van giau
+5345	louis michel
+5346	eastern highlands
+5347	daniel inouye
+5348	united republic of tanzania
+5349	humanistic judaism
+5350	court of auditors
+5351	student dissident
+5352	brunn
+5353	ben bernanke
+5354	alex larsen
+5355	altay
+5356	piedmont natural gas
+5357	nyiragongo
+5358	sicilia
+5359	massoud barzani
+5360	ceylonese
+5361	cracow
+5362	inter american press association
+5363	congo republic
+5364	vladimir naumov
+5365	dolby laboratories
+5366	the body of christ
+5367	callon petroleum company
+5368	hirohito
+5369	oracle corp
+5370	ahmadabad
+5371	evaristo carvalho
+5372	burhanuddin rabbani
+5373	oil corp
+5374	genesco inc
+5375	joaquim chissano
+5376	armando guebuza
+5377	pago pago
+5378	mellanox technologies
+5379	zaw min
+5380	frederick kagan
+5381	eastman chemical co
+5382	ukraina
+5383	military authority
+5384	friesland
+5385	peter munya
+5386	nguru
+5387	bank for international settlements
+5388	dilip barua
+5389	amr moussa
+5390	investors bancorp
+5391	harald v
+5392	quechua
+5393	human rights foundation of turkey
+5394	actuant corporation
+5395	khon kaen
+5396	phillipine
+5397	south asian association
+5398	chungbuk
+5399	hindu hardliner
+5400	thein swe
+5401	huizhou
+5402	damara
+5403	muslim rebel group
+5404	eccp
+5405	st christopher and nevis
+5406	dhahran
+5407	faustin archange touadera
+5408	sakha
+5409	discover financial services
+5410	catholic missionaries
+5411	moorish science temple of america
+5412	giulio andreotti
+5413	boeotia
+5414	romain schneider
+5415	cemac
+5416	acco brands corporation
+5417	religious society of friends
+5418	borinquen
+5419	michel rocard
+5420	aymara
+5421	david coltart
+5422	association for progressive communications
+5423	thessalonica
+5424	sandra kalniete
+5425	faisal al fayez
+5426	salehuddin ahmed
+5427	ruling alliance
+5428	investment technology group inc
+5429	agung laksono
+5430	alassane ouattara
+5431	adrian nastase
+5432	military reserve
+5433	cp rail
+5434	surinamese
+5435	world ort
+5436	kerbala
+5437	geo group inc
+5438	murrumbidgee river
+5439	great australian bight
+5440	leonid kuchma
+5441	federal national council
+5442	armed riot police
+5443	susilo bambang yudhoyono
+5444	geoffrey palmer
+5445	pe than
+5446	westar energy
+5447	arkhangai
+5448	paramilitary organization
+5449	joseph zen
+5450	fouad siniora
+5451	moise lida kouassi
+5452	yekaterinburg
+5453	dora siliya
+5454	national foreign trade council
+5455	united states virgin islands
+5456	spirit aerosystems
+5457	hanesbrands inc
+5458	kyaw shwe
+5459	carlos gutierrez
+5460	ninh thuan
+5461	ticino
+5462	arkhangelsk
+5463	severstal
+5464	hifikepunye pohamba
+5465	academy for educational development
+5466	azam khan swati
+5467	molwyn joseph
+5468	oblates of mary immaculate
+5469	shikoku
+5470	acorn energy
+5471	alamo group
+5472	satkhira
+5473	jiang zemin
+5474	chinese wall
+5475	penske automotive
+5476	rodney williams
+5477	sorbs
+5478	ukrain
+5479	yunlin county
+5480	hwanghae
+5481	sagaing
+5482	central election committee
+5483	guillaume soro
+5484	zulkifli hasan
+5485	united nations food and agriculture organization
+5486	pine tree state
+5487	cyberoptics corporation
+5488	scotts miracle gro
+5489	joseph owona
+5490	mount olympus
+5491	brendan smith
+5492	uzbekiston
+5493	karamojong
+5494	tutor perini corporation
+5495	saudia arabia
+5496	bruce golding
+5497	operation mercy
+5498	lalit mansingh
+5499	opposition political party
+5500	nahua
+5501	lakshadweep
+5502	aung thein
+5503	chai nat
+5504	aum shinrikyo
+5505	levy mwanawasa
+5506	azande
+5507	civil aviation department
+5508	miyegombo enkhbold
+5509	cursillo movement
+5510	zulkifli bin hir
+5511	dardanelles
+5512	yuriy trutnev
+5513	bateke
+5514	regal beloit
+5515	tirol
+5516	jailbird
+5517	min thein
+5518	separatist guerrilla
+5519	china communications construction co
+5520	venda
+5521	mayotte
+5522	mohamed hussein tantawi
+5523	mohajirs
+5524	nasik
+5525	lisa shoman
+5526	insurgent organization
+5527	netrakona
+5528	fmc corporation
+5529	international trade union confederation
+5530	david kemp
+5531	saint lucian
+5532	order of saint augustine
+5533	bakri hassan saleh
+5534	aleut
+5535	louisiana purchase
+5536	anura priyadarshana yapa
+5537	guntis ulmanis
+5538	samut sakhon
+5539	the gymboree
+5540	lars loekke rasmussen
+5541	tajik republic
+5542	prem tinsulanonda
+5543	jean oghassabian
+5544	ramechhap
+5545	stephen kalonzo musyoka
+5546	john pundari
+5547	kapilvastu
+5548	cabo verde
+5549	cabinetmaker
+5550	mohammed ouzzine
+5551	gobi desert
+5552	tibor navracsics
+5553	giuliano amato
+5554	oriental orthodox
+5555	hans modrow
+5556	student opposition
+5557	zawahiri
+5558	marquesas islands
+5559	ossetians
+5560	lech kaczynski
+5561	gerhard schroeder
+5562	tuamotu archipelago
+5563	ken lipenga
+5564	organization of african unity
+5565	ion sturza
+5566	ancient order of druids
+5567	alcoa inc
+5568	helmut schmidt
+5569	jafar hassan
+5570	vilasrao deshmukh
+5571	derek mitchell
+5572	fiabci
+5573	militant wing
+5574	taleb rifai
+5575	tariana turia
+5576	hsinchu county
+5577	enrique ona
+5578	evraz
+5579	kayin state
+5580	ha tinh
+5581	barbadan
+5582	mutula kilonzo
+5583	rapa nui
+5584	societas rosicruciana
+5585	isle of mann
+5586	u thant
+5587	felix mutati
+5588	old dominion state
+5589	old line state
+5590	trygve lie
+5591	augusto santos silva
+5592	magnolia state
+5593	international publishers association
+5594	kanchanpur
+5595	mount rushmore state
+5596	pelican state
+5597	north star state
+5598	centennial state
+5599	land of enchantment
+5600	okayama
+5601	united nations monitor
+5602	sakon nakhon
+5603	validus holdings
+5604	salyan
+5605	rackspace hosting
+5606	gannett co
+5607	international diabetes federation
+5608	disaster management minist
+5609	marie stopes international
+5610	wolverine world wide
+5611	aegina
+5612	iridium communications
+5613	mikhail myasnikovich
+5614	kenneth cole productions
+5615	jual oram
+5616	intertanko
+5617	dutch antilles
+5618	timor lorosae
+5619	phichit
+5620	hery rajaonarimampianina
+5621	chunghwa telecom
+5622	kellogg company
+5623	vladimir voronin
+5624	cyclades
+5625	kamet
+5626	comerica inc
+5627	murphy oil corp
+5628	alfredo cristiani
+5629	feed the children
+5630	kirgizstan
+5631	oryol
+5632	terrorist insurgent
+5633	kaloleni
+5634	bonete
+5635	jewish renewal
+5636	mahamoud ali youssouf
+5637	adm.
+5638	jenny macklin
+5639	first solar inc
+5640	tangshan
+5641	shankar pokhrel
+5642	horace chang
+5643	new gold inc
+5644	gunma
+5645	dongxiang
+5646	international water management institute
+5647	kite realty
+5648	helpage international
+5649	heng samrin
+5650	veolia environnement
+5651	rudyard spencer
+5652	catholic missionary
+5653	ebrahim patel
+5654	david kilgour
+5655	nakhon nayok
+5656	lim hng kiang
+5657	michel pharaon
+5658	kyaw tin
+5659	world blind union
+5660	china construction bank
+5661	international association of drilling contractors
+5662	proshika
+5663	bar harbor bankshares
+5664	adige
+5665	the aes corporation
+5666	european chemical industry council
+5667	rainforest alliance
+5668	cit group inc
+5669	jose eduardo cardozo
+5670	gurbanguly berdimuhammedov
+5671	jozef oleksy
+5672	kokani
+5673	world business council for sustainable development
+5674	weifang
+5675	israelim
+5676	array biopharma inc
+5677	fred goodwin
+5678	morrocan
+5679	hoshyar zebari
+5680	international bar association
+5681	norbert roettgen
+5682	yukon river
+5683	chief of state
+5684	department of protocol
+5685	illegal movement
+5686	sheikh hamid
+5687	cincinnati financial corporation
+5688	halozyme therapeutics inc
+5689	harbans singh
+5690	ali kamara
+5691	consistory
+5692	sindhuli
+5693	tesla motors
+5694	liguria
+5695	chuadanga
+5696	save the children international
+5697	harry clinton
+5698	manuel esquivel
+5699	seychellois
+5700	apeldoorn
+5701	secretariate
+5702	heraldo munoz
+5703	lutheran immigration and refugee service
+5704	harte hanks
+5705	millicom international
+5706	international war crimes tribunal
+5707	cibt education group
+5708	mariano rajoy brey
+5709	yeongdong
+5710	vanguard natural resources
+5711	border patrol unit
+5712	insurgent force
+5713	soldiery
+5714	webmd health
+5715	bicolano
+5716	hoodoo
+5717	prince alois
+5718	dacca
+5719	rajbari
+5720	health volunteers overseas
+5721	tarek mitri
+5722	rockwood holdings
+5723	pentecostalism
+5724	hissene habre
+5725	anastase murekezi
+5726	pampas
+5727	affghanistan
+5728	puttalam
+5729	national council of women of canada
+5730	zhang ping
+5731	sadlers
+5732	michael gene
+5733	rukum
+5734	potentate
+5735	rene montero
+5736	meron reuben
+5737	howard cooke
+5738	medair
+5739	nong khai
+5740	fayez tarawneh
+5741	association of world citizens
+5742	askar zhumagaliyev
+5743	lu lay sreng
+5744	ali habib
+5745	dan quayle
+5746	sa kaeo
+5747	sergey ivanov
+5748	yuriy serheyev
+5749	pema gyamtsho
+5750	huron consulting group
+5751	iamgold corp
+5752	muqdisho
+5753	dolores balderamos garcia
+5754	sali berisha
+5755	milne bay
+5756	prologis
+5757	korea electric power corp
+5758	baganda
+5759	jacek rostowski
+5760	steelman
+5761	elizabeth ii
+5762	hackett group
+5763	shore patrol
+5764	lydie polfer
+5765	hannah tetteh
+5766	qandahar
+5767	gastar exploration
+5768	donald mackay
+5769	brethren in christ
+5770	yamoussoukro
+5771	nakhon sawan
+5772	carlos mendoza
+5773	barquisimeto
+5774	mari alkatiri
+5775	guerilla force
+5776	front for the liberation
+5777	socialist international
+5778	continental airlines
+5779	ha nam
+5780	arthur mutambara
+5781	third world network
+5782	first marblehead corporation
+5783	lyonpo yeshey zimba
+5784	guahan
+5785	sverdlovsk
+5786	orion marine group
+5787	amerco
+5788	zte corp
+5789	nabih shuqum
+5790	faruk logoglu
+5791	jining
+5792	tokelau
+5793	china merchants holdings
+5794	tra vinh
+5795	pravind jugnauth
+5796	kairat kelimbetov
+5797	resolute energy corp
+5798	aspen insurance
+5799	yves leterme
+5800	aragonese
+5801	delek us holdings
+5802	michal kovac
+5803	communion and liberation
+5804	family health international
+5805	ousted premier
+5806	safta
+5807	nijeriya
+5808	brian donnelly
+5809	east timorese
+5810	khakassia
+5811	taian
+5812	kaushal kishor
+5813	edison james
+5814	paramilitary organisation
+5815	overseas development institute
+5816	jail bird
+5817	olin corporation
+5818	nalchik
+5819	union of south american nations
+5820	francois bozize
+5821	francisco madeira
+5822	mahamat allahou taher
+5823	windward coast
+5824	peterburg
+5825	qian qichen
+5826	unocal
+5827	valhi inc
+5828	ingvar carlsson
+5829	surinam
+5830	teekay shipping
+5831	wamalwa kijana
+5832	jairam ramesh
+5833	samdech hun sen
+5834	austerlitz
+5835	paul klebnikov
+5836	capital one financial corporation
+5837	moussa traore
+5838	mosiuoa lekota
+5839	bac giang
+5840	barry faure
+5841	trashigang
+5842	lisa raitt
+5843	yeshey zimba
+5844	sfax
+5845	seato
+5846	gurns
+5847	aleksander kwasniewski
+5848	sithembiso nyoni
+5849	[MASK]
