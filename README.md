@@ -1,6 +1,6 @@
 # Enhanced Temporal Knowledge Embeddings with Contextualized Language Representations
 
-This repository is the official implementation of **Enhancing Temporal Knowledge Embeddings with Contextualized Language Representations**. 
+This repository is the official implementation of **Enhancing Temporal Knowledge Embeddings with Contextualized Language Representations (https://arxiv.org/abs/2203.09590)**. 
 
 ## Requirements
 
